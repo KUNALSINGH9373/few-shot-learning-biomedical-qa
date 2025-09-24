@@ -1,0 +1,602 @@
+[
+  {
+    "question": "Have antiepileptic drug prescription claims changed following the FDA suicidality warning?",
+    "abstract": "In January 2008, the Food and Drug Administration (FDA) communicated concerns and, in May 2009, issued a warning about an increased risk of suicidality for all antiepileptic drugs (AEDs). This research evaluated the association between the FDA suicidality communications and the AED prescription claims among members with epilepsy and/or psychiatric disorder.",
+    "answer": "no",
+    "formatted_prompt": "Question: Have antiepileptic drug prescription claims changed following the FDA suicidality warning?\nAbstract: In January 2008, the Food and Drug Administration (FDA) communicated concerns and, in May 2009, issued a warning about an increased risk of suicidality for all antiepileptic drugs (AEDs). This research evaluated the association between the FDA suicidality communications and the AED prescription claims among members with epilepsy and/or psychiatric disorder.\nAnswer: no"
+  },
+  {
+    "question": "Inpatient Pediatric Tonsillectomy: Does Hospital Type Affect Cost and Outcomes of Care?",
+    "abstract": "To ascertain whether hospital type is associated with differences in total cost and outcomes for inpatient tonsillectomy.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Inpatient Pediatric Tonsillectomy: Does Hospital Type Affect Cost and Outcomes of Care?\nAbstract: To ascertain whether hospital type is associated with differences in total cost and outcomes for inpatient tonsillectomy.\nAnswer: yes"
+  },
+  {
+    "question": "Preparing patients at high risk of falls for discharge home after rehabilitation: Do we meet the guidelines?",
+    "abstract": "Medical records of 121 people who received inpatient rehabilitation were retrospectively screened; records of 50 people discharged home and at high falls risk (fall in last 12 months, fall preceding/during admission) were audited. Data extracted included falls risk identification during rehabilitation and in discharge documentation; falls risk factors assessed; and fall prevention strategies implemented.",
+    "answer": "no",
+    "formatted_prompt": "Question: Preparing patients at high risk of falls for discharge home after rehabilitation: Do we meet the guidelines?\nAbstract: Medical records of 121 people who received inpatient rehabilitation were retrospectively screened; records of 50 people discharged home and at high falls risk (fall in last 12 months, fall preceding/during admission) were audited. Data extracted included falls risk identification during rehabilitation and in discharge documentation; falls risk factors assessed; and fall prevention strategies implemented.\nAnswer: no"
+  },
+  {
+    "question": "Estimation of basal metabolic rate in Chinese: are the current prediction equations applicable?",
+    "abstract": "Measurement of basal metabolic rate (BMR) is suggested as a tool to estimate energy requirements. Therefore, BMR prediction equations have been developed in multiple populations because indirect calorimetry is not always feasible. However, there is a paucity of data on BMR measured in overweight and obese adults living in Asia and equations developed for this group of interest. The aim of this study was to develop a new BMR prediction equation for Chinese adults applicable for a large BMI range and compare it with commonly used prediction equations.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Estimation of basal metabolic rate in Chinese: are the current prediction equations applicable?\nAbstract: Measurement of basal metabolic rate (BMR) is suggested as a tool to estimate energy requirements. Therefore, BMR prediction equations have been developed in multiple populations because indirect calorimetry is not always feasible. However, there is a paucity of data on BMR measured in overweight and obese adults living in Asia and equations developed for this group of interest. The aim of this study was to develop a new BMR prediction equation for Chinese adults applicable for a large BMI range and compare it with commonly used prediction equations.\nAnswer: yes"
+  },
+  {
+    "question": "Are pectins involved in cold acclimation and de-acclimation of winter oil-seed rape plants?",
+    "abstract": "The hypothesis was tested that pectin content and methylation degree participate in regulation of cell wall mechanical properties and in this way may affect tissue growth and freezing resistance over the course of plant cold acclimation and de-acclimation.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Are pectins involved in cold acclimation and de-acclimation of winter oil-seed rape plants?\nAbstract: The hypothesis was tested that pectin content and methylation degree participate in regulation of cell wall mechanical properties and in this way may affect tissue growth and freezing resistance over the course of plant cold acclimation and de-acclimation.\nAnswer: yes"
+  },
+  {
+    "question": "Is HIV/STD control in Jamaica making a difference?",
+    "abstract": "To assess the impact of the comprehensive HIV/STD Control Program established in Jamaica since the late 1980s on the HIV/AIDS epidemic.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Is HIV/STD control in Jamaica making a difference?\nAbstract: To assess the impact of the comprehensive HIV/STD Control Program established in Jamaica since the late 1980s on the HIV/AIDS epidemic.\nAnswer: yes"
+  },
+  {
+    "question": "Is (18)F-FDG a surrogate tracer to measure tumor hypoxia?",
+    "abstract": "Fluorodeoxyglucose (FDG) has been reported as a surrogate tracer to measure tumor hypoxia with positron emission tomography (PET). The hypothesis is that there is an increased uptake of FDG under hypoxic conditions secondary to enhanced glycolysis, compensating the hypoxia-induced loss of cellular energy production. Several studies have already addressed this issue, some with conflicting results. This study aimed to compare the tracers (14)C-EF3 and (18)F-FDG to detect hypoxia in mouse tumor models.",
+    "answer": "no",
+    "formatted_prompt": "Question: Is (18)F-FDG a surrogate tracer to measure tumor hypoxia?\nAbstract: Fluorodeoxyglucose (FDG) has been reported as a surrogate tracer to measure tumor hypoxia with positron emission tomography (PET). The hypothesis is that there is an increased uptake of FDG under hypoxic conditions secondary to enhanced glycolysis, compensating the hypoxia-induced loss of cellular energy production. Several studies have already addressed this issue, some with conflicting results. This study aimed to compare the tracers (14)C-EF3 and (18)F-FDG to detect hypoxia in mouse tumor models.\nAnswer: no"
+  },
+  {
+    "question": "Can magnetic resonance imaging accurately predict concordant pain provocation during provocative disc injection?",
+    "abstract": "To correlate magnetic resonance (MR) image findings with pain response by provocation discography in patients with discogenic low back pain, with an emphasis on the combination analysis of a high intensity zone (HIZ) and disc contour abnormalities.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Can magnetic resonance imaging accurately predict concordant pain provocation during provocative disc injection?\nAbstract: To correlate magnetic resonance (MR) image findings with pain response by provocation discography in patients with discogenic low back pain, with an emphasis on the combination analysis of a high intensity zone (HIZ) and disc contour abnormalities.\nAnswer: yes"
+  },
+  {
+    "question": "Sternal fracture in growing children : A rare and often overlooked fracture?",
+    "abstract": "Sternal fractures in childhood are rare. The aim of the study was to investigate the accident mechanism, the detection of radiological and sonographical criteria and consideration of associated injuries.",
+    "answer": "maybe",
+    "formatted_prompt": "Question: Sternal fracture in growing children : A rare and often overlooked fracture?\nAbstract: Sternal fractures in childhood are rare. The aim of the study was to investigate the accident mechanism, the detection of radiological and sonographical criteria and consideration of associated injuries.\nAnswer: maybe"
+  },
+  {
+    "question": "Is expert breast pathology assessment necessary for the management of ductal carcinoma in situ ?",
+    "abstract": "Current guidelines include a recommendation that a pathologist with expertise in breast disease review all ductal carcinoma in situ (DCIS) specimens due to the presence of significant variability in pathologic reporting of DCIS. The objective of this study was to evaluate the completeness and accuracy of pathologic reporting of DCIS over the past decade and to determine the current impact of expert breast pathology assessment on the management of DCIS.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Is expert breast pathology assessment necessary for the management of ductal carcinoma in situ ?\nAbstract: Current guidelines include a recommendation that a pathologist with expertise in breast disease review all ductal carcinoma in situ (DCIS) specimens due to the presence of significant variability in pathologic reporting of DCIS. The objective of this study was to evaluate the completeness and accuracy of pathologic reporting of DCIS over the past decade and to determine the current impact of expert breast pathology assessment on the management of DCIS.\nAnswer: yes"
+  },
+  {
+    "question": "Alcohol consumption and acute myocardial infarction: a benefit of alcohol consumed with meals?",
+    "abstract": "The apparent favorable effect of alcohol on the risk of acute myocardial infarction (MI) may be related to its hypoinsulinemic effect when consumed with meals. We studied how the timing of alcohol consumption in relation to meals might affect the risk of MI in a population with relatively high regular alcohol consumption.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Alcohol consumption and acute myocardial infarction: a benefit of alcohol consumed with meals?\nAbstract: The apparent favorable effect of alcohol on the risk of acute myocardial infarction (MI) may be related to its hypoinsulinemic effect when consumed with meals. We studied how the timing of alcohol consumption in relation to meals might affect the risk of MI in a population with relatively high regular alcohol consumption.\nAnswer: yes"
+  },
+  {
+    "question": "Does ultrasound-scored synovitis depend on the pharmacokinetics of subcutaneous anti-TNF agents in patients with rheumatoid arthritis?",
+    "abstract": "The aim of this study was to investigate the influence of the pharmacokinetics of s.c. anti-TNF agents on the grade of US-detected synovitis in RA patients.",
+    "answer": "no",
+    "formatted_prompt": "Question: Does ultrasound-scored synovitis depend on the pharmacokinetics of subcutaneous anti-TNF agents in patients with rheumatoid arthritis?\nAbstract: The aim of this study was to investigate the influence of the pharmacokinetics of s.c. anti-TNF agents on the grade of US-detected synovitis in RA patients.\nAnswer: no"
+  },
+  {
+    "question": "Totally implantable venous access device placement by interventional radiologists: are prophylactic antibiotics necessary?",
+    "abstract": "To determine the rate of early infection for totally implantable venous access devices (TIVADs) placed without antibiotic prophylaxis.",
+    "answer": "no",
+    "formatted_prompt": "Question: Totally implantable venous access device placement by interventional radiologists: are prophylactic antibiotics necessary?\nAbstract: To determine the rate of early infection for totally implantable venous access devices (TIVADs) placed without antibiotic prophylaxis.\nAnswer: no"
+  },
+  {
+    "question": "Transient tachypnea of the newborn (TTN): a role for polymorphisms in the beta-adrenergic receptor (ADRB) encoding genes?",
+    "abstract": "DNA was collected for genotyping from 73 term newborns suffering from TTN and 55 healthy controls from a Caucasian cohort.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Transient tachypnea of the newborn (TTN): a role for polymorphisms in the beta-adrenergic receptor (ADRB) encoding genes?\nAbstract: DNA was collected for genotyping from 73 term newborns suffering from TTN and 55 healthy controls from a Caucasian cohort.\nAnswer: yes"
+  },
+  {
+    "question": "Is the affinity column-mediated immunoassay method suitable as an alternative to the microparticle enzyme immunoassay method as a blood tacrolimus assay?",
+    "abstract": "Tacrolimus is a potent immunosuppressive drug used in organ transplantation. Because of its substantial toxic effects, narrow therapeutic index, and interindividual pharmacokinetic variability, therapeutic drug monitoring of whole-blood tacrolimus concentrations has been recommended. We investigated the comparability of the results of 2 immunoassay systems, affinity column-mediated immunoassay (ACMIA) and microparticle enzyme immunoassay (MEIA), comparing differences in the tacrolimus concentrations measured by the 2 methods in relation to the hematologic and biochemical values of hepatic and renal functions.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Is the affinity column-mediated immunoassay method suitable as an alternative to the microparticle enzyme immunoassay method as a blood tacrolimus assay?\nAbstract: Tacrolimus is a potent immunosuppressive drug used in organ transplantation. Because of its substantial toxic effects, narrow therapeutic index, and interindividual pharmacokinetic variability, therapeutic drug monitoring of whole-blood tacrolimus concentrations has been recommended. We investigated the comparability of the results of 2 immunoassay systems, affinity column-mediated immunoassay (ACMIA) and microparticle enzyme immunoassay (MEIA), comparing differences in the tacrolimus concentrations measured by the 2 methods in relation to the hematologic and biochemical values of hepatic and renal functions.\nAnswer: yes"
+  },
+  {
+    "question": "Can nurse-led preoperative education reduce anxiety and postoperative complications of patients undergoing cardiac surgery?",
+    "abstract": "The effect of preoperative education on anxiety and postoperative outcomes of cardiac surgery patients remains unclear.AIM: The aim of the study was to estimate the effectiveness of a nurse-led preoperative education on anxiety and postoperative outcomes.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Can nurse-led preoperative education reduce anxiety and postoperative complications of patients undergoing cardiac surgery?\nAbstract: The effect of preoperative education on anxiety and postoperative outcomes of cardiac surgery patients remains unclear.AIM: The aim of the study was to estimate the effectiveness of a nurse-led preoperative education on anxiety and postoperative outcomes.\nAnswer: yes"
+  },
+  {
+    "question": "Internal derangement of the temporomandibular joint: is there still a place for ultrasound?",
+    "abstract": "The aim of this study was to assess the diagnostic value of articular sounds, standardized clinical examination, and standardized articular ultrasound in the detection of internal derangements of the temporomandibular joint.",
+    "answer": "no",
+    "formatted_prompt": "Question: Internal derangement of the temporomandibular joint: is there still a place for ultrasound?\nAbstract: The aim of this study was to assess the diagnostic value of articular sounds, standardized clinical examination, and standardized articular ultrasound in the detection of internal derangements of the temporomandibular joint.\nAnswer: no"
+  },
+  {
+    "question": "Is there an increase in the incidence of gbs carrier rates among pregnant women in northern Israel?",
+    "abstract": "Group B Streptococci (GBS) asymptomatically colonize the vaginal or rectal areas of about 20% of pregnant women (4-40%). About 50% of infants to mothers with GBS colonization also become colonized at rectal, umbilical or oral sites. GBS is a leading bacterial cause of neonatal illness and death. The present prevalence rate of GBS carriers among parturients in the western Galilee in Israel is unknown.AIM: A prospective study of the GBS carrier rate according to origin and gestational age in the western Galilee in Israel.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Is there an increase in the incidence of gbs carrier rates among pregnant women in northern Israel?\nAbstract: Group B Streptococci (GBS) asymptomatically colonize the vaginal or rectal areas of about 20% of pregnant women (4-40%). About 50% of infants to mothers with GBS colonization also become colonized at rectal, umbilical or oral sites. GBS is a leading bacterial cause of neonatal illness and death. The present prevalence rate of GBS carriers among parturients in the western Galilee in Israel is unknown.AIM: A prospective study of the GBS carrier rate according to origin and gestational age in the western Galilee in Israel.\nAnswer: yes"
+  },
+  {
+    "question": "The clinical significance of bile duct sludge: is it different from bile duct stones?",
+    "abstract": "Some patients with suspected common bile duct (CBD) stones are found to have sludge and no stones. Although sludge in the gallbladder is a precursor of gallbladder stones, the significance of bile duct sludge (BDS) is poorly defined. This study aimed to compare BDS with bile duct stones in terms of frequency, associated risk factors, and clinical outcome after endoscopic therapy.",
+    "answer": "no",
+    "formatted_prompt": "Question: The clinical significance of bile duct sludge: is it different from bile duct stones?\nAbstract: Some patients with suspected common bile duct (CBD) stones are found to have sludge and no stones. Although sludge in the gallbladder is a precursor of gallbladder stones, the significance of bile duct sludge (BDS) is poorly defined. This study aimed to compare BDS with bile duct stones in terms of frequency, associated risk factors, and clinical outcome after endoscopic therapy.\nAnswer: no"
+  },
+  {
+    "question": "Do viral infections have a role in benign paroxysmal positional vertigo?",
+    "abstract": "To investigate the role of viral infection in benign paroxysmal positional vertigo (BPPV).",
+    "answer": "yes",
+    "formatted_prompt": "Question: Do viral infections have a role in benign paroxysmal positional vertigo?\nAbstract: To investigate the role of viral infection in benign paroxysmal positional vertigo (BPPV).\nAnswer: yes"
+  },
+  {
+    "question": "Proof of concept study: does fenofibrate have a role in sleep apnoea syndrome?",
+    "abstract": "To investigate the effect of fenofibrate on sleep apnoea indices.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Proof of concept study: does fenofibrate have a role in sleep apnoea syndrome?\nAbstract: To investigate the effect of fenofibrate on sleep apnoea indices.\nAnswer: yes"
+  },
+  {
+    "question": "Can vitamin C prevent complex regional pain syndrome in patients with wrist fractures?",
+    "abstract": "Complex regional pain syndrome type I is treated symptomatically. A protective effect of vitamin C (ascorbic acid) has been reported previously. A dose-response study was designed to evaluate its effect in patients with wrist fractures.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Can vitamin C prevent complex regional pain syndrome in patients with wrist fractures?\nAbstract: Complex regional pain syndrome type I is treated symptomatically. A protective effect of vitamin C (ascorbic acid) has been reported previously. A dose-response study was designed to evaluate its effect in patients with wrist fractures.\nAnswer: yes"
+  },
+  {
+    "question": "The Deformity Angular Ratio: Does It Correlate With High-Risk Cases for Potential Spinal Cord Monitoring Alerts in Pediatric 3-Column Thoracic Spinal Deformity Corrective Surgery?",
+    "abstract": "A retrospective analysis.",
+    "answer": "yes",
+    "formatted_prompt": "Question: The Deformity Angular Ratio: Does It Correlate With High-Risk Cases for Potential Spinal Cord Monitoring Alerts in Pediatric 3-Column Thoracic Spinal Deformity Corrective Surgery?\nAbstract: A retrospective analysis.\nAnswer: yes"
+  },
+  {
+    "question": "Should displaced midshaft clavicular fractures be treated surgically?",
+    "abstract": "This study was designed to compare clinical effectiveness of operative with nonoperative treatment for displaced midshaft clavicular fractures (DMCF).",
+    "answer": "yes",
+    "formatted_prompt": "Question: Should displaced midshaft clavicular fractures be treated surgically?\nAbstract: This study was designed to compare clinical effectiveness of operative with nonoperative treatment for displaced midshaft clavicular fractures (DMCF).\nAnswer: yes"
+  },
+  {
+    "question": "Do follow-up recommendations for abnormal Papanicolaou smears influence patient adherence?",
+    "abstract": "To compare adherence to follow-up recommendations for colposcopy or repeated Papanicolaou (Pap) smears for women with previously abnormal Pap smear results.",
+    "answer": "no",
+    "formatted_prompt": "Question: Do follow-up recommendations for abnormal Papanicolaou smears influence patient adherence?\nAbstract: To compare adherence to follow-up recommendations for colposcopy or repeated Papanicolaou (Pap) smears for women with previously abnormal Pap smear results.\nAnswer: no"
+  },
+  {
+    "question": "Is fetal anatomic assessment on follow-up antepartum sonograms clinically useful?",
+    "abstract": "The purpose of this study was to evaluate the clinical usefulness of a fetal anatomic survey on follow-up antepartum sonograms.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Is fetal anatomic assessment on follow-up antepartum sonograms clinically useful?\nAbstract: The purpose of this study was to evaluate the clinical usefulness of a fetal anatomic survey on follow-up antepartum sonograms.\nAnswer: yes"
+  },
+  {
+    "question": "Does Mammographic Density have an Impact on the Margin Re-excision Rate After Breast-Conserving Surgery?",
+    "abstract": "Limited and conflicting data exist on an association between mammographic density (MD) and re-excision rates after breast-conserving surgery (BCS). Additionally, the correlation of MD with resection of unnecessary margins during initial BCS is unknown.",
+    "answer": "no",
+    "formatted_prompt": "Question: Does Mammographic Density have an Impact on the Margin Re-excision Rate After Breast-Conserving Surgery?\nAbstract: Limited and conflicting data exist on an association between mammographic density (MD) and re-excision rates after breast-conserving surgery (BCS). Additionally, the correlation of MD with resection of unnecessary margins during initial BCS is unknown.\nAnswer: no"
+  },
+  {
+    "question": "Is duration of psychological treatment for depression related to return into treatment?",
+    "abstract": "There is increasing pressure on mental health providers to reduce the duration of treatments, while retaining level of quality and effectiveness. The risk is that the population is underserved and therefore needs new treatment episodes. The primary aim of this study was to investigate whether duration of treatment and return into mental health care were related.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Is duration of psychological treatment for depression related to return into treatment?\nAbstract: There is increasing pressure on mental health providers to reduce the duration of treatments, while retaining level of quality and effectiveness. The risk is that the population is underserved and therefore needs new treatment episodes. The primary aim of this study was to investigate whether duration of treatment and return into mental health care were related.\nAnswer: yes"
+  },
+  {
+    "question": "Do nomograms designed to predict biochemical recurrence (BCR) do a better job of predicting more clinically relevant prostate cancer outcomes than BCR?",
+    "abstract": "To examine the ability of various postoperative nomograms to predict prostate cancer-specific mortality (PCSM) and to validate that they could predict aggressive biochemical recurrence (BCR). Prostate-specific antigen (PSA), grade, and stage are the classic triad used to predict BCR after radical prostatectomy (RP). Multiple nomograms use these to predict risk of BCR. A previous study showed that several nomograms could predict aggressive BCR (prostate-specific antigen doubling time [PSADT]\u00a0<9 months) more accurately than BCR. However, it remains unknown if they can predict more definitive endpoints, such as PCSM.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Do nomograms designed to predict biochemical recurrence (BCR) do a better job of predicting more clinically relevant prostate cancer outcomes than BCR?\nAbstract: To examine the ability of various postoperative nomograms to predict prostate cancer-specific mortality (PCSM) and to validate that they could predict aggressive biochemical recurrence (BCR). Prostate-specific antigen (PSA), grade, and stage are the classic triad used to predict BCR after radical prostatectomy (RP). Multiple nomograms use these to predict risk of BCR. A previous study showed that several nomograms could predict aggressive BCR (prostate-specific antigen doubling time [PSADT]\u00a0<9 months) more accurately than BCR. However, it remains unknown if they can predict more definitive endpoints, such as PCSM.\nAnswer: yes"
+  },
+  {
+    "question": "Prostate bed target interfractional motion using RTOG consensus definitions and daily CT on rails : Does target motion differ between superior and inferior portions of the clinical target volume?",
+    "abstract": "Using high-quality CT-on-rails imaging, the daily motion of the prostate bed clinical target volume (PB-CTV) based on consensus Radiation Therapy Oncology Group (RTOG) definitions (instead of surgical clips/fiducials) was studied. It was assessed whether PB motion in the superior portion of PB-CTV (SUP-CTV) differed from the inferior PB-CTV (INF-CTV).",
+    "answer": "no",
+    "formatted_prompt": "Question: Prostate bed target interfractional motion using RTOG consensus definitions and daily CT on rails : Does target motion differ between superior and inferior portions of the clinical target volume?\nAbstract: Using high-quality CT-on-rails imaging, the daily motion of the prostate bed clinical target volume (PB-CTV) based on consensus Radiation Therapy Oncology Group (RTOG) definitions (instead of surgical clips/fiducials) was studied. It was assessed whether PB motion in the superior portion of PB-CTV (SUP-CTV) differed from the inferior PB-CTV (INF-CTV).\nAnswer: no"
+  },
+  {
+    "question": "Subclavian steal syndrome: can the blood pressure difference between arms predict the severity of steal?",
+    "abstract": "A side-to-side difference in systolic brachial arterial blood pressure is a common finding in subclavian artery stenosis and is frequently used as a screening tool for subclavian steal syndrome (SSS). It was the goal of this retrospective study to investigate the relationship between different vertebral artery waveform types and the side-to-side difference in systolic blood pressure in patients with sonographically proven SSS.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Subclavian steal syndrome: can the blood pressure difference between arms predict the severity of steal?\nAbstract: A side-to-side difference in systolic brachial arterial blood pressure is a common finding in subclavian artery stenosis and is frequently used as a screening tool for subclavian steal syndrome (SSS). It was the goal of this retrospective study to investigate the relationship between different vertebral artery waveform types and the side-to-side difference in systolic blood pressure in patients with sonographically proven SSS.\nAnswer: yes"
+  },
+  {
+    "question": "Do Electrochemiluminescence Assays Improve Prediction of Time to Type 1 Diabetes in Autoantibody-Positive TrialNet Subjects?",
+    "abstract": "To explore whether electrochemiluminescence (ECL) assays can help improve prediction of time to type 1 diabetes in the TrialNet autoantibody-positive population.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Do Electrochemiluminescence Assays Improve Prediction of Time to Type 1 Diabetes in Autoantibody-Positive TrialNet Subjects?\nAbstract: To explore whether electrochemiluminescence (ECL) assays can help improve prediction of time to type 1 diabetes in the TrialNet autoantibody-positive population.\nAnswer: yes"
+  },
+  {
+    "question": "Residual fundus or neofundus after laparoscopic sleeve gastrectomy: is fundectomy safe and effective as revision surgery?",
+    "abstract": "Up to 30 % of patients who have undergone laparoscopic sleeve gastrectomy require revision surgery for inadequate weight loss, weight regain, and/or the development of severe upper gastrointestinal symptoms. The aim of this retrospective study was to evaluate the safety and efficacy of laparoscopic fundectomy (LF) in cases of a residual fundus/neofundus development regarding GERD symptoms.",
+    "answer": "maybe",
+    "formatted_prompt": "Question: Residual fundus or neofundus after laparoscopic sleeve gastrectomy: is fundectomy safe and effective as revision surgery?\nAbstract: Up to 30 % of patients who have undergone laparoscopic sleeve gastrectomy require revision surgery for inadequate weight loss, weight regain, and/or the development of severe upper gastrointestinal symptoms. The aim of this retrospective study was to evaluate the safety and efficacy of laparoscopic fundectomy (LF) in cases of a residual fundus/neofundus development regarding GERD symptoms.\nAnswer: maybe"
+  },
+  {
+    "question": "Steroids in aminoglycoside-containing ear drops: do they reduce cochlear toxicity?",
+    "abstract": "To determine whether betamethasone (BM) reduces the cochlear toxicity of otic gentamicin (GM) if given together.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Steroids in aminoglycoside-containing ear drops: do they reduce cochlear toxicity?\nAbstract: To determine whether betamethasone (BM) reduces the cochlear toxicity of otic gentamicin (GM) if given together.\nAnswer: yes"
+  },
+  {
+    "question": "Do ART patients face higher C-section rates during their stage of delivery?",
+    "abstract": "The mode of delivery depends on multiple parameters. After assisted reproductive technology (ART), previous studies have shown elevated C-section rates but few studies differentiated between elective and emergency operations and different protocols of cryopreservation. Because these studies did not use multiparity as exclusion criteria which reduces confounding with previous pregnancies, aim of this study is to compare mode of delivery of different techniques of ART using data of primiparae only [1, 2].",
+    "answer": "yes",
+    "formatted_prompt": "Question: Do ART patients face higher C-section rates during their stage of delivery?\nAbstract: The mode of delivery depends on multiple parameters. After assisted reproductive technology (ART), previous studies have shown elevated C-section rates but few studies differentiated between elective and emergency operations and different protocols of cryopreservation. Because these studies did not use multiparity as exclusion criteria which reduces confounding with previous pregnancies, aim of this study is to compare mode of delivery of different techniques of ART using data of primiparae only [1, 2].\nAnswer: yes"
+  },
+  {
+    "question": "Do patients with rheumatoid arthritis established on methotrexate and folic acid 5 mg daily need to continue folic acid supplements long term?",
+    "abstract": "It is postulated that some aspects of methotrexate toxicity may be related to its action as an anti-folate. Folic acid (FA) is often given as an adjunct to methotrexate therapy, but there is no conclusive proof that it decreases the toxicity of methotrexate and there is a theoretical risk that it may decrease the efficacy of methotrexate.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Do patients with rheumatoid arthritis established on methotrexate and folic acid 5 mg daily need to continue folic acid supplements long term?\nAbstract: It is postulated that some aspects of methotrexate toxicity may be related to its action as an anti-folate. Folic acid (FA) is often given as an adjunct to methotrexate therapy, but there is no conclusive proof that it decreases the toxicity of methotrexate and there is a theoretical risk that it may decrease the efficacy of methotrexate.\nAnswer: yes"
+  },
+  {
+    "question": "Bactericidal activity of 3 cutaneous/mucosal antiseptic solutions in the presence of interfering substances: Improvement of the NF EN 13727 European Standard?",
+    "abstract": "There is no standard protocol for the evaluation of antiseptics used for skin and mucous membranes in the presence of interfering substances. Our objective was to suggest trial conditions adapted from the NF EN 13727 standard, for the evaluation of antiseptics used in gynecology and dermatology.",
+    "answer": "maybe",
+    "formatted_prompt": "Question: Bactericidal activity of 3 cutaneous/mucosal antiseptic solutions in the presence of interfering substances: Improvement of the NF EN 13727 European Standard?\nAbstract: There is no standard protocol for the evaluation of antiseptics used for skin and mucous membranes in the presence of interfering substances. Our objective was to suggest trial conditions adapted from the NF EN 13727 standard, for the evaluation of antiseptics used in gynecology and dermatology.\nAnswer: maybe"
+  },
+  {
+    "question": "Is it appropriate to implant kidneys from elderly donors in young recipients?",
+    "abstract": "Kidneys from elderly donors tend to be implanted in recipients who are also elderly. We present the results obtained after 10 years of evolution on transplanting elderly kidneys into young recipients.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Is it appropriate to implant kidneys from elderly donors in young recipients?\nAbstract: Kidneys from elderly donors tend to be implanted in recipients who are also elderly. We present the results obtained after 10 years of evolution on transplanting elderly kidneys into young recipients.\nAnswer: yes"
+  },
+  {
+    "question": "Convulsions and retinal haemorrhage: should we look further?",
+    "abstract": "The prevalence of retinal haemorrhages after convulsions is not well established. As these haemorrhages are considered characteristic of child abuse, we investigated their occurrence after convulsive episodes to see whether the finding of haemorrhage should prompt further investigation.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Convulsions and retinal haemorrhage: should we look further?\nAbstract: The prevalence of retinal haemorrhages after convulsions is not well established. As these haemorrhages are considered characteristic of child abuse, we investigated their occurrence after convulsive episodes to see whether the finding of haemorrhage should prompt further investigation.\nAnswer: yes"
+  },
+  {
+    "question": "Preoperative locoregional staging of gastric cancer: is there a place for magnetic resonance imaging?",
+    "abstract": "The aim of this study was to prospectively compare the diagnostic performance of magnetic resonance imaging (MRI), multidetector computed tomography (MDCT) and endoscopic ultrasonography (EUS) in the preoperative locoregional staging of gastric cancer.",
+    "answer": "no",
+    "formatted_prompt": "Question: Preoperative locoregional staging of gastric cancer: is there a place for magnetic resonance imaging?\nAbstract: The aim of this study was to prospectively compare the diagnostic performance of magnetic resonance imaging (MRI), multidetector computed tomography (MDCT) and endoscopic ultrasonography (EUS) in the preoperative locoregional staging of gastric cancer.\nAnswer: no"
+  },
+  {
+    "question": "Are wandering and physically nonaggressive agitation equivalent?",
+    "abstract": "The authors examined equivalence of wandering and physically nonaggressive agitation (PNA) as concepts.",
+    "answer": "no",
+    "formatted_prompt": "Question: Are wandering and physically nonaggressive agitation equivalent?\nAbstract: The authors examined equivalence of wandering and physically nonaggressive agitation (PNA) as concepts.\nAnswer: no"
+  },
+  {
+    "question": "Are income-related differences in active travel associated with physical environmental characteristics?",
+    "abstract": "Rates of active travel vary by socio-economic position, with higher rates generally observed among less affluent populations. Aspects of both social and built environments have been shown to affect active travel, but little research has explored the influence of physical environmental characteristics, and less has examined whether physical environment affects socio-economic inequality in active travel. This study explored income-related differences in active travel in relation to multiple physical environmental characteristics including air pollution, climate and levels of green space, in urban areas across England. We hypothesised that any gradient in the relationship between income and active travel would be least pronounced in the least physically environmentally-deprived areas where higher income populations may be more likely to choose active transport as a means of travel.",
+    "answer": "no",
+    "formatted_prompt": "Question: Are income-related differences in active travel associated with physical environmental characteristics?\nAbstract: Rates of active travel vary by socio-economic position, with higher rates generally observed among less affluent populations. Aspects of both social and built environments have been shown to affect active travel, but little research has explored the influence of physical environmental characteristics, and less has examined whether physical environment affects socio-economic inequality in active travel. This study explored income-related differences in active travel in relation to multiple physical environmental characteristics including air pollution, climate and levels of green space, in urban areas across England. We hypothesised that any gradient in the relationship between income and active travel would be least pronounced in the least physically environmentally-deprived areas where higher income populations may be more likely to choose active transport as a means of travel.\nAnswer: no"
+  },
+  {
+    "question": "Is arch form influenced by sagittal molar relationship or Bolton tooth-size discrepancy?",
+    "abstract": "Orthodontic patients show high prevalence of tooth-size discrepancy. This study investigates the possible association between arch form, clinically significant tooth-size discrepancy, and sagittal molar relationship.",
+    "answer": "no",
+    "formatted_prompt": "Question: Is arch form influenced by sagittal molar relationship or Bolton tooth-size discrepancy?\nAbstract: Orthodontic patients show high prevalence of tooth-size discrepancy. This study investigates the possible association between arch form, clinically significant tooth-size discrepancy, and sagittal molar relationship.\nAnswer: no"
+  },
+  {
+    "question": "Are endothelial cell patterns of astrocytomas indicative of grade?",
+    "abstract": "The most common primary brain tumors in children and adults are of astrocytic origin. Classic histologic grading schemes for astrocytomas have included evaluating the presence or absence of nuclear abnormalities, mitoses, vascular endothelial proliferation, and tumor necrosis.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Are endothelial cell patterns of astrocytomas indicative of grade?\nAbstract: The most common primary brain tumors in children and adults are of astrocytic origin. Classic histologic grading schemes for astrocytomas have included evaluating the presence or absence of nuclear abnormalities, mitoses, vascular endothelial proliferation, and tumor necrosis.\nAnswer: yes"
+  },
+  {
+    "question": "Colorectal cancer with synchronous liver metastases: does global management at the same centre improve results?",
+    "abstract": "Synchronous liver metastases (SLM) occur in 20% of colorectal cancers (CRC). Resection of SLM and CLC can be undertaken at different centres (separate management, SM) or at the same centre (global management, GM).",
+    "answer": "no",
+    "formatted_prompt": "Question: Colorectal cancer with synchronous liver metastases: does global management at the same centre improve results?\nAbstract: Synchronous liver metastases (SLM) occur in 20% of colorectal cancers (CRC). Resection of SLM and CLC can be undertaken at different centres (separate management, SM) or at the same centre (global management, GM).\nAnswer: no"
+  },
+  {
+    "question": "Has the 80-hour workweek improved surgical resident education in New England?",
+    "abstract": "To evaluate the effect of the 80-hour workweek restrictions on resident education within surgical programs in the New England area.",
+    "answer": "no",
+    "formatted_prompt": "Question: Has the 80-hour workweek improved surgical resident education in New England?\nAbstract: To evaluate the effect of the 80-hour workweek restrictions on resident education within surgical programs in the New England area.\nAnswer: no"
+  },
+  {
+    "question": "Is it Crohn's disease?",
+    "abstract": "Sulfasalazine is a widely used anti-inflammatory agent in the treatment of inflammatory bowel disease and several rheumatological disorders. Although as many as 20% of treated patients may experience reversible, dose-dependent side effects, less frequent but potentially severe, systemic reactions have also been reported.",
+    "answer": "maybe",
+    "formatted_prompt": "Question: Is it Crohn's disease?\nAbstract: Sulfasalazine is a widely used anti-inflammatory agent in the treatment of inflammatory bowel disease and several rheumatological disorders. Although as many as 20% of treated patients may experience reversible, dose-dependent side effects, less frequent but potentially severe, systemic reactions have also been reported.\nAnswer: maybe"
+  },
+  {
+    "question": "Gynecological cancer alarm symptoms: is contact with specialist care associated with lifestyle and socioeconomic status?",
+    "abstract": "The aim of this study was to determine the proportion of patients who were referred to specialist care after reporting gynecological cancer alarm symptoms to their general practitioner. We sought to investigate whether contact with specialist care was associated with lifestyle factors or socioeconomic status.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Gynecological cancer alarm symptoms: is contact with specialist care associated with lifestyle and socioeconomic status?\nAbstract: The aim of this study was to determine the proportion of patients who were referred to specialist care after reporting gynecological cancer alarm symptoms to their general practitioner. We sought to investigate whether contact with specialist care was associated with lifestyle factors or socioeconomic status.\nAnswer: yes"
+  },
+  {
+    "question": "Is robotically assisted laparoscopic radical prostatectomy less invasive than retropubic radical prostatectomy?",
+    "abstract": "To evaluate whether robotically assisted laparoscopic prostatectomy (RALP) is less invasive than radical retropubic prostatectomy (RRP), as experimental studies suggest that the acute phase reaction is proportional to surgery-induced tissue damage.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Is robotically assisted laparoscopic radical prostatectomy less invasive than retropubic radical prostatectomy?\nAbstract: To evaluate whether robotically assisted laparoscopic prostatectomy (RALP) is less invasive than radical retropubic prostatectomy (RRP), as experimental studies suggest that the acute phase reaction is proportional to surgery-induced tissue damage.\nAnswer: yes"
+  },
+  {
+    "question": "Does escalation of the apical dose change treatment outcome in beta-radiation of posterior choroidal melanomas with 106Ru plaques?",
+    "abstract": "To show the results of treating posterior uveal melanomas with 106Ru plaque beta-ray radiotherapy and to review and discuss the literature concerning the optimal apical dose prescription (100 vs. 160 Gy).",
+    "answer": "no",
+    "formatted_prompt": "Question: Does escalation of the apical dose change treatment outcome in beta-radiation of posterior choroidal melanomas with 106Ru plaques?\nAbstract: To show the results of treating posterior uveal melanomas with 106Ru plaque beta-ray radiotherapy and to review and discuss the literature concerning the optimal apical dose prescription (100 vs. 160 Gy).\nAnswer: no"
+  },
+  {
+    "question": "Do older adults with cancer fall more often?",
+    "abstract": "To examine whether a history of cancer increased the likelihood of a fall in community-dwelling older adults, and if cancer type, stage, or time since diagnosis increased falls.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Do older adults with cancer fall more often?\nAbstract: To examine whether a history of cancer increased the likelihood of a fall in community-dwelling older adults, and if cancer type, stage, or time since diagnosis increased falls.\nAnswer: yes"
+  },
+  {
+    "question": "Outcome Feedback within Emergency Medicine Training Programs: An Opportunity to Apply the Theory of Deliberate Practice?",
+    "abstract": "Outcome feedback is the process of learning patient outcomes after their care within the emergency department. We conducted a national survey of Canadian Royal College emergency medicine (EM) residents and program directors to determine the extent to which active outcome feedback and follow-up occurred. We also compared the perceived educational value of outcome feedback between residents and program directors.",
+    "answer": "maybe",
+    "formatted_prompt": "Question: Outcome Feedback within Emergency Medicine Training Programs: An Opportunity to Apply the Theory of Deliberate Practice?\nAbstract: Outcome feedback is the process of learning patient outcomes after their care within the emergency department. We conducted a national survey of Canadian Royal College emergency medicine (EM) residents and program directors to determine the extent to which active outcome feedback and follow-up occurred. We also compared the perceived educational value of outcome feedback between residents and program directors.\nAnswer: maybe"
+  },
+  {
+    "question": "Fulfilling human resources development goal in West Africa: can the training of ophthalmologist diplomates be improved?",
+    "abstract": "To ascertain the perspectives of Trainee Ophthalmologist Diplomats (TOD) on the Ophthalmic Diploma Training (ODT) in West Africa with a view to improving the programme.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Fulfilling human resources development goal in West Africa: can the training of ophthalmologist diplomates be improved?\nAbstract: To ascertain the perspectives of Trainee Ophthalmologist Diplomats (TOD) on the Ophthalmic Diploma Training (ODT) in West Africa with a view to improving the programme.\nAnswer: yes"
+  },
+  {
+    "question": "Is distance to provider a barrier to care for medicaid patients with breast, colorectal, or lung cancer?",
+    "abstract": "Distance to provider might be an important barrier to timely diagnosis and treatment for cancer patients who qualify for Medicaid coverage. Whether driving time or driving distance is a better indicator of travel burden is also of interest.",
+    "answer": "no",
+    "formatted_prompt": "Question: Is distance to provider a barrier to care for medicaid patients with breast, colorectal, or lung cancer?\nAbstract: Distance to provider might be an important barrier to timely diagnosis and treatment for cancer patients who qualify for Medicaid coverage. Whether driving time or driving distance is a better indicator of travel burden is also of interest.\nAnswer: no"
+  },
+  {
+    "question": "Does prior benign prostate biopsy predict outcome for patients treated with radical perineal prostatectomy?",
+    "abstract": "To determine the effect of prior benign prostate biopsies on the surgical and clinical outcomes of patients treated with radical perineal prostatectomy for prostate cancer.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Does prior benign prostate biopsy predict outcome for patients treated with radical perineal prostatectomy?\nAbstract: To determine the effect of prior benign prostate biopsies on the surgical and clinical outcomes of patients treated with radical perineal prostatectomy for prostate cancer.\nAnswer: yes"
+  },
+  {
+    "question": "Does rural or urban residence make a difference to neonatal outcome in premature birth?",
+    "abstract": "Patients living in rural areas may be at a disadvantage in accessing tertiary health care.AIM: To test the hypothesis that very premature infants born to mothers residing in rural areas have poorer outcomes than those residing in urban areas in the state of New South Wales (NSW) and the Australian Capital Territory (ACT) despite a coordinated referral and transport system.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Does rural or urban residence make a difference to neonatal outcome in premature birth?\nAbstract: Patients living in rural areas may be at a disadvantage in accessing tertiary health care.AIM: To test the hypothesis that very premature infants born to mothers residing in rural areas have poorer outcomes than those residing in urban areas in the state of New South Wales (NSW) and the Australian Capital Territory (ACT) despite a coordinated referral and transport system.\nAnswer: yes"
+  },
+  {
+    "question": "Does stress increase imitation of drinking behavior?",
+    "abstract": "That alcohol consumption is strongly influenced by the drinking behavior of social company has been demonstrated in observational research. However, not everyone is equally vulnerable to other people's drinking, and it is important to unravel which factors underlie these individual differences. This study focuses on the role of psychosocial stress in attempting to explain individual differences in the propensity to imitate alcohol consumption.",
+    "answer": "no",
+    "formatted_prompt": "Question: Does stress increase imitation of drinking behavior?\nAbstract: That alcohol consumption is strongly influenced by the drinking behavior of social company has been demonstrated in observational research. However, not everyone is equally vulnerable to other people's drinking, and it is important to unravel which factors underlie these individual differences. This study focuses on the role of psychosocial stress in attempting to explain individual differences in the propensity to imitate alcohol consumption.\nAnswer: no"
+  },
+  {
+    "question": "Does \u03b2-catenin have a role in pathogenesis of sebaceous cell carcinoma of the eyelid?",
+    "abstract": "48 cases of SbCC were analysed immunohistochemically using monoclonal \u03b2-catenin antibody and the results correlated with tumour size, histopathological differentiation, orbital invasion and pagetoid spread.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Does \u03b2-catenin have a role in pathogenesis of sebaceous cell carcinoma of the eyelid?\nAbstract: 48 cases of SbCC were analysed immunohistochemically using monoclonal \u03b2-catenin antibody and the results correlated with tumour size, histopathological differentiation, orbital invasion and pagetoid spread.\nAnswer: yes"
+  },
+  {
+    "question": "Is it possible to stop treatment with nucleos(t)ide analogs in patients with e-antigen negative chronic hepatitis B?",
+    "abstract": "Treatment of HBeAg-negative chronic hepatitis B (CHB) with nucleos(t)ide analogues (NA) is usually indefinite, since the loss of HBsAg, as a criterion for its discontinuation, is a rare event. Recent evidence suggests that discontinuing NA therapy may be feasible in selected patients.",
+    "answer": "maybe",
+    "formatted_prompt": "Question: Is it possible to stop treatment with nucleos(t)ide analogs in patients with e-antigen negative chronic hepatitis B?\nAbstract: Treatment of HBeAg-negative chronic hepatitis B (CHB) with nucleos(t)ide analogues (NA) is usually indefinite, since the loss of HBsAg, as a criterion for its discontinuation, is a rare event. Recent evidence suggests that discontinuing NA therapy may be feasible in selected patients.\nAnswer: maybe"
+  },
+  {
+    "question": "Is semi-closed endarterectomy of the superficial femoral artery combined with a short venous bypass in case of insufficient venous material an acceptable alternative for limb-threatening ischemia?",
+    "abstract": "The aim of this study was to analyse the results of infragenual arterial revascularisation using semiclosed endarterectomy of the superficial femoral artery combined with a short venous bypass in patients with critical leg ischemia and insufficient venous material for a straightforward femorocrural reconstruction.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Is semi-closed endarterectomy of the superficial femoral artery combined with a short venous bypass in case of insufficient venous material an acceptable alternative for limb-threatening ischemia?\nAbstract: The aim of this study was to analyse the results of infragenual arterial revascularisation using semiclosed endarterectomy of the superficial femoral artery combined with a short venous bypass in patients with critical leg ischemia and insufficient venous material for a straightforward femorocrural reconstruction.\nAnswer: yes"
+  },
+  {
+    "question": "Chemoradiotherapy in the management of locally advanced squamous cell carcinoma esophagus: is surgical resection required?",
+    "abstract": "The present study aims to evaluate benefit of adding surgery to chemoradiotherapy alone in management of carcinoma esophagus.",
+    "answer": "no",
+    "formatted_prompt": "Question: Chemoradiotherapy in the management of locally advanced squamous cell carcinoma esophagus: is surgical resection required?\nAbstract: The present study aims to evaluate benefit of adding surgery to chemoradiotherapy alone in management of carcinoma esophagus.\nAnswer: no"
+  },
+  {
+    "question": "Department of Transportation vs self-reported data on motor vehicle collisions and driving convictions for stroke survivors: do they agree?",
+    "abstract": "Research on stroke survivors' driving safety has typically used either self-reports or government records, but the extent to which the 2 may differ is not known. We compared government records and self-reports of motor vehicle collisions and driving convictions in a sample of stroke survivors.",
+    "answer": "no",
+    "formatted_prompt": "Question: Department of Transportation vs self-reported data on motor vehicle collisions and driving convictions for stroke survivors: do they agree?\nAbstract: Research on stroke survivors' driving safety has typically used either self-reports or government records, but the extent to which the 2 may differ is not known. We compared government records and self-reports of motor vehicle collisions and driving convictions in a sample of stroke survivors.\nAnswer: no"
+  },
+  {
+    "question": "Is prophylactic fixation a cost-effective method to prevent a future contralateral fragility hip fracture?",
+    "abstract": ": A previous hip fracture more than doubles the risk of a contralateral hip fracture. Pharmacologic and environmental interventions to prevent hip fracture have documented poor compliance. The purpose of this study was to examine the cost-effectiveness of prophylactic fixation of the uninjured hip to prevent contralateral hip fracture.",
+    "answer": "maybe",
+    "formatted_prompt": "Question: Is prophylactic fixation a cost-effective method to prevent a future contralateral fragility hip fracture?\nAbstract: : A previous hip fracture more than doubles the risk of a contralateral hip fracture. Pharmacologic and environmental interventions to prevent hip fracture have documented poor compliance. The purpose of this study was to examine the cost-effectiveness of prophylactic fixation of the uninjured hip to prevent contralateral hip fracture.\nAnswer: maybe"
+  },
+  {
+    "question": "Traumatic aortic injury: does the anatomy of the aortic arch influence aortic trauma severity?",
+    "abstract": "Traumatic aortic injury (TAI) is a rare but life-threatening type of injury. We investigate whether the anatomy of the aortic arch influences the severity of aortic injury.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Traumatic aortic injury: does the anatomy of the aortic arch influence aortic trauma severity?\nAbstract: Traumatic aortic injury (TAI) is a rare but life-threatening type of injury. We investigate whether the anatomy of the aortic arch influences the severity of aortic injury.\nAnswer: yes"
+  },
+  {
+    "question": "Will clinical studies elucidate the connection between the length of storage of transfused red blood cells and clinical outcomes?",
+    "abstract": "The temporal pattern of the biologic mechanism linking red blood cell (RBC) storage duration with clinical outcomes is yet unknown. This study investigates how such a temporal pattern can affect the power of randomized controlled trials (RCT) to detect a relevant clinical outcome mediated by the transfusion of stored RBCs.",
+    "answer": "no",
+    "formatted_prompt": "Question: Will clinical studies elucidate the connection between the length of storage of transfused red blood cells and clinical outcomes?\nAbstract: The temporal pattern of the biologic mechanism linking red blood cell (RBC) storage duration with clinical outcomes is yet unknown. This study investigates how such a temporal pattern can affect the power of randomized controlled trials (RCT) to detect a relevant clinical outcome mediated by the transfusion of stored RBCs.\nAnswer: no"
+  },
+  {
+    "question": "Does high blood pressure reduce the risk of chronic low back pain?",
+    "abstract": "Epidemiological studies have suggested inverse relationships between blood pressure and prevalence of conditions such as migraine and headache. It is not yet clear whether similar relationships can be established for back pain in particular in prospective studies.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Does high blood pressure reduce the risk of chronic low back pain?\nAbstract: Epidemiological studies have suggested inverse relationships between blood pressure and prevalence of conditions such as migraine and headache. It is not yet clear whether similar relationships can be established for back pain in particular in prospective studies.\nAnswer: yes"
+  },
+  {
+    "question": "Can medical students contribute to quality assurance programmes in day surgery?",
+    "abstract": "Health care delivery has undertaken a major shift from inpatient management to ambulatory surgical care with increasing emphasis on quality assurance (QA) processes. Educational opportunities for medical undergraduate programmes are being sought in the day surgery environment. Our study was undertaken to explore ways in which senior medical students can actively contribute to QA processes as part of an undergraduate day surgery educational programme.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Can medical students contribute to quality assurance programmes in day surgery?\nAbstract: Health care delivery has undertaken a major shift from inpatient management to ambulatory surgical care with increasing emphasis on quality assurance (QA) processes. Educational opportunities for medical undergraduate programmes are being sought in the day surgery environment. Our study was undertaken to explore ways in which senior medical students can actively contribute to QA processes as part of an undergraduate day surgery educational programme.\nAnswer: yes"
+  },
+  {
+    "question": "Would corrected QT dispersion predict left ventricular hypertrophy in hypertensive patients?",
+    "abstract": "We explored whether QT corrected dispersion (QTcD) can identify left ventricular hypertrophy (LVH) in hypertensives.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Would corrected QT dispersion predict left ventricular hypertrophy in hypertensive patients?\nAbstract: We explored whether QT corrected dispersion (QTcD) can identify left ventricular hypertrophy (LVH) in hypertensives.\nAnswer: yes"
+  },
+  {
+    "question": "Serum angiotensin-converting enzyme and frequency of severe hypoglycaemia in Type 1 diabetes: does a relationship exist?",
+    "abstract": "An association has been described between elevated serum angiotensin-converting enzyme (ACE) and an increased risk of severe hypoglycaemia (SH). To ascertain whether this reported association could be replicated in a different country, it was re-examined in 300 individuals with Type 1 diabetes.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Serum angiotensin-converting enzyme and frequency of severe hypoglycaemia in Type 1 diabetes: does a relationship exist?\nAbstract: An association has been described between elevated serum angiotensin-converting enzyme (ACE) and an increased risk of severe hypoglycaemia (SH). To ascertain whether this reported association could be replicated in a different country, it was re-examined in 300 individuals with Type 1 diabetes.\nAnswer: yes"
+  },
+  {
+    "question": "Is there a need for pelvic CT scan in cases of renal cell carcinoma?",
+    "abstract": "To determine the necessity of pelvic computed tomography (CT) in patients of renal cell carcinoma (RCC).",
+    "answer": "no",
+    "formatted_prompt": "Question: Is there a need for pelvic CT scan in cases of renal cell carcinoma?\nAbstract: To determine the necessity of pelvic computed tomography (CT) in patients of renal cell carcinoma (RCC).\nAnswer: no"
+  },
+  {
+    "question": "Does septoplasty change the dimensions of compensatory hypertrophy of the middle turbinate?",
+    "abstract": "To measure the dimensions of compensatory hypertrophy of the middle turbinate in patients with nasal septal deviation, before and after septoplasty.",
+    "answer": "no",
+    "formatted_prompt": "Question: Does septoplasty change the dimensions of compensatory hypertrophy of the middle turbinate?\nAbstract: To measure the dimensions of compensatory hypertrophy of the middle turbinate in patients with nasal septal deviation, before and after septoplasty.\nAnswer: no"
+  },
+  {
+    "question": "Does delaying surgery in immature adolescent idiopathic scoliosis patients with progressive curve, lead to addition of fusion levels?",
+    "abstract": "To analyze the changes in the curve extent, pattern and the fusion level in adolescent idiopathic scoliosis (AIS) patients who undergo delayed surgery instead of early surgery.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Does delaying surgery in immature adolescent idiopathic scoliosis patients with progressive curve, lead to addition of fusion levels?\nAbstract: To analyze the changes in the curve extent, pattern and the fusion level in adolescent idiopathic scoliosis (AIS) patients who undergo delayed surgery instead of early surgery.\nAnswer: yes"
+  },
+  {
+    "question": "Can calprotectin predict relapse risk in inflammatory bowel disease?",
+    "abstract": "Assessing the clinical course of inflammatory bowel disease (IBD) patients consists of periodical clinical evaluations and laboratory tests. We aimed to assess the role of calprotectin tests in predicting clinical relapse in IBD patients.",
+    "answer": "maybe",
+    "formatted_prompt": "Question: Can calprotectin predict relapse risk in inflammatory bowel disease?\nAbstract: Assessing the clinical course of inflammatory bowel disease (IBD) patients consists of periodical clinical evaluations and laboratory tests. We aimed to assess the role of calprotectin tests in predicting clinical relapse in IBD patients.\nAnswer: maybe"
+  },
+  {
+    "question": "Does the treatment of amblyopia normalise subfoveal choroidal thickness in amblyopic children?",
+    "abstract": "Recent studies have found a choroidal thickening in amblyopic eyes and suggested that there might be a relationship between the choroid and amblyopia. The present study aimed to evaluate the effect of a six-month treatment of amblyopia on choroidal thickness in anisometropic hyperopic amblyopic children.",
+    "answer": "no",
+    "formatted_prompt": "Question: Does the treatment of amblyopia normalise subfoveal choroidal thickness in amblyopic children?\nAbstract: Recent studies have found a choroidal thickening in amblyopic eyes and suggested that there might be a relationship between the choroid and amblyopia. The present study aimed to evaluate the effect of a six-month treatment of amblyopia on choroidal thickness in anisometropic hyperopic amblyopic children.\nAnswer: no"
+  },
+  {
+    "question": "Are failures of anterior cruciate ligament reconstruction associated with steep posterior tibial slopes?",
+    "abstract": "Recently, increasing number of literature has identified the posterior tibial slope (PTS) as one of the risk factors of primary anterior cruciate ligament (ACL) injury. However, few studies concerning the association between failure of ACL reconstruction (ACLR) and PTS have been published. The objective of this study was to explore the association between the failure of ACLR and PTS at a minimum of two years follow-up.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Are failures of anterior cruciate ligament reconstruction associated with steep posterior tibial slopes?\nAbstract: Recently, increasing number of literature has identified the posterior tibial slope (PTS) as one of the risk factors of primary anterior cruciate ligament (ACL) injury. However, few studies concerning the association between failure of ACL reconstruction (ACLR) and PTS have been published. The objective of this study was to explore the association between the failure of ACLR and PTS at a minimum of two years follow-up.\nAnswer: yes"
+  },
+  {
+    "question": "Continuity of care experience of residents in an academic vascular department: are trainees learning complete surgical care?",
+    "abstract": "It is widely accepted that exemplary surgical care involves a surgeon's involvement in the preoperative, perioperative, and postoperative periods. In an era of ever-expanding therapeutic modalities available to the vascular surgeon, it is important that trainees gain experience in preoperative decision-making and how this affects a patient's operative and postoperative course. The purpose of this study was to define the current experience of residents on a vascular surgery service regarding the continuity of care they are able to provide for patients and the factors affecting this experience.",
+    "answer": "no",
+    "formatted_prompt": "Question: Continuity of care experience of residents in an academic vascular department: are trainees learning complete surgical care?\nAbstract: It is widely accepted that exemplary surgical care involves a surgeon's involvement in the preoperative, perioperative, and postoperative periods. In an era of ever-expanding therapeutic modalities available to the vascular surgeon, it is important that trainees gain experience in preoperative decision-making and how this affects a patient's operative and postoperative course. The purpose of this study was to define the current experience of residents on a vascular surgery service regarding the continuity of care they are able to provide for patients and the factors affecting this experience.\nAnswer: no"
+  },
+  {
+    "question": "Ultra high risk (UHR) for psychosis criteria: are there different levels of risk for transition to psychosis?",
+    "abstract": "The ultra high risk (UHR) for psychosis criteria have been validated in a number of studies. However, it is not known whether particular UHR criteria (Attenuated Psychotic Symptoms (APS), Brief Limited Intermittent Psychotic Symptoms (BLIPS) or Trait vulnerability criteria), or combination of criteria, is associated with a higher risk of transition to psychosis. The current study investigated this issue over a 6-month follow-up period. We hypothesised that the risk of transition would increase in the following order: Trait alone<APS alone<APS+Trait<BLIPS.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Ultra high risk (UHR) for psychosis criteria: are there different levels of risk for transition to psychosis?\nAbstract: The ultra high risk (UHR) for psychosis criteria have been validated in a number of studies. However, it is not known whether particular UHR criteria (Attenuated Psychotic Symptoms (APS), Brief Limited Intermittent Psychotic Symptoms (BLIPS) or Trait vulnerability criteria), or combination of criteria, is associated with a higher risk of transition to psychosis. The current study investigated this issue over a 6-month follow-up period. We hypothesised that the risk of transition would increase in the following order: Trait alone<APS alone<APS+Trait<BLIPS.\nAnswer: yes"
+  },
+  {
+    "question": "Are patients with Werlhof's disease at increased risk for bleeding complications when undergoing cardiac surgery?",
+    "abstract": "It is generally assumed, that patients with Werlhof's disease (WD) are at increased risk for bleeding complications when undergoing cardiac surgery with extracorporeal circulation. Therefore we performed this case control study to estimate the real risk for bleeding complications of these patients.",
+    "answer": "no",
+    "formatted_prompt": "Question: Are patients with Werlhof's disease at increased risk for bleeding complications when undergoing cardiac surgery?\nAbstract: It is generally assumed, that patients with Werlhof's disease (WD) are at increased risk for bleeding complications when undergoing cardiac surgery with extracorporeal circulation. Therefore we performed this case control study to estimate the real risk for bleeding complications of these patients.\nAnswer: no"
+  },
+  {
+    "question": "Are physicians meeting the needs of family caregivers of the frail elderly?",
+    "abstract": "To explore expressed needs, both formal and informal, of family caregivers of frail elderly. To evaluate roles of physicians.",
+    "answer": "no",
+    "formatted_prompt": "Question: Are physicians meeting the needs of family caregivers of the frail elderly?\nAbstract: To explore expressed needs, both formal and informal, of family caregivers of frail elderly. To evaluate roles of physicians.\nAnswer: no"
+  },
+  {
+    "question": "Does the manic/mixed episode distinction in bipolar disorder patients run true over time?",
+    "abstract": "The authors sought to determine whether the manic/mixed episode distinction in patients with bipolar disorder runs true over time.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Does the manic/mixed episode distinction in bipolar disorder patients run true over time?\nAbstract: The authors sought to determine whether the manic/mixed episode distinction in patients with bipolar disorder runs true over time.\nAnswer: yes"
+  },
+  {
+    "question": "Do episodic migraineurs selectively attend to headache-related visual stimuli?",
+    "abstract": "To assess pain-related attentional biases among individuals with episodic migraine.",
+    "answer": "no",
+    "formatted_prompt": "Question: Do episodic migraineurs selectively attend to headache-related visual stimuli?\nAbstract: To assess pain-related attentional biases among individuals with episodic migraine.\nAnswer: no"
+  },
+  {
+    "question": "Are financial incentives cost-effective to support smoking cessation during pregnancy?",
+    "abstract": "To investigate the cost-effectiveness of up to \u00a3400 worth of financial incentives for smoking cessation in pregnancy as an adjunct to routine health care.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Are financial incentives cost-effective to support smoking cessation during pregnancy?\nAbstract: To investigate the cost-effectiveness of up to \u00a3400 worth of financial incentives for smoking cessation in pregnancy as an adjunct to routine health care.\nAnswer: yes"
+  },
+  {
+    "question": "Can fractional lasers enhance transdermal absorption of topical lidocaine in an in vivo animal model?",
+    "abstract": "It has been shown in vitro that pretreatment of skin with fractional lasers enhances transdermal delivery of drugs. The aim of this study is to demonstrate in vivo firstly that laser enhances transdermal drug absorption and secondly that this can be manipulated by altering laser settings.STUDY DESIGN/",
+    "answer": "yes",
+    "formatted_prompt": "Question: Can fractional lasers enhance transdermal absorption of topical lidocaine in an in vivo animal model?\nAbstract: It has been shown in vitro that pretreatment of skin with fractional lasers enhances transdermal delivery of drugs. The aim of this study is to demonstrate in vivo firstly that laser enhances transdermal drug absorption and secondly that this can be manipulated by altering laser settings.STUDY DESIGN/\nAnswer: yes"
+  },
+  {
+    "question": "Should temperature be monitorized during kidney allograft preservation?",
+    "abstract": "It is generally considered that kidney grafts should be preserved at 4 degrees C during cold storage. However, actual temperature conditions are not known. We decided to study the temperature levels during preservation with the Biotainer storage can and Vitalpack transport pack.",
+    "answer": "no",
+    "formatted_prompt": "Question: Should temperature be monitorized during kidney allograft preservation?\nAbstract: It is generally considered that kidney grafts should be preserved at 4 degrees C during cold storage. However, actual temperature conditions are not known. We decided to study the temperature levels during preservation with the Biotainer storage can and Vitalpack transport pack.\nAnswer: no"
+  },
+  {
+    "question": "Can clinicians use the PHQ-9 to assess depression in people with vision loss?",
+    "abstract": "To investigate whether the Patient Health Questionnaire-9 (PHQ-9) possesses the essential psychometric characteristics to measure depressive symptoms in people with visual impairment.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Can clinicians use the PHQ-9 to assess depression in people with vision loss?\nAbstract: To investigate whether the Patient Health Questionnaire-9 (PHQ-9) possesses the essential psychometric characteristics to measure depressive symptoms in people with visual impairment.\nAnswer: yes"
+  },
+  {
+    "question": "Nasal polyposis: is there an inheritance pattern?",
+    "abstract": "Nasal Polyposis (NP) is defined as a chronic inflammatory disease of sinonasal mucosa leading to diffuse formation of benign polyps. Although family histories are frequently suggested in medical literature, no specific study focused on this point has been reported. The purpose of this study is to determine whether a hereditary factor could be implied for NP in a family where several members were affected. We included 99 members of this family.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Nasal polyposis: is there an inheritance pattern?\nAbstract: Nasal Polyposis (NP) is defined as a chronic inflammatory disease of sinonasal mucosa leading to diffuse formation of benign polyps. Although family histories are frequently suggested in medical literature, no specific study focused on this point has been reported. The purpose of this study is to determine whether a hereditary factor could be implied for NP in a family where several members were affected. We included 99 members of this family.\nAnswer: yes"
+  },
+  {
+    "question": "Stage I non-small cell lung carcinoma: really an early stage?",
+    "abstract": "We review our results on surgical treatment of patients with stage I non-small cell lung carcinoma and we attempted to clarify the prognostic significance of some surgical--pathologic variables.",
+    "answer": "no",
+    "formatted_prompt": "Question: Stage I non-small cell lung carcinoma: really an early stage?\nAbstract: We review our results on surgical treatment of patients with stage I non-small cell lung carcinoma and we attempted to clarify the prognostic significance of some surgical--pathologic variables.\nAnswer: no"
+  },
+  {
+    "question": "Are adult body circumferences associated with height?",
+    "abstract": "Weight scales as height squared, which is an observation that forms the basis of body mass index (weight/height(2)). If, and how, circumferences, including waist circumference (WC) and hip circumference (HC), scale to height remains unclear, but this is an important consideration when developing normative ranges or applying WC/height and HC/height as risk indexes.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Are adult body circumferences associated with height?\nAbstract: Weight scales as height squared, which is an observation that forms the basis of body mass index (weight/height(2)). If, and how, circumferences, including waist circumference (WC) and hip circumference (HC), scale to height remains unclear, but this is an important consideration when developing normative ranges or applying WC/height and HC/height as risk indexes.\nAnswer: yes"
+  },
+  {
+    "question": "Scrotal approach to both palpable and impalpable undescended testes: should it become our first choice?",
+    "abstract": "To determine the advantages of scrotal incision in the treatment of undescended testis. Undescended testis is a common pediatric condition and is conventionally managed surgically by orchidopexy. A single scrotal incision orchidopexy has become accepted as a valid approach for patients with palpable undescended testicles. Because this approach also allows easy detection of atrophic testes or testicular remnants, it recently has also emerged as an alternative initial surgical approach to impalpable undescended testicles.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Scrotal approach to both palpable and impalpable undescended testes: should it become our first choice?\nAbstract: To determine the advantages of scrotal incision in the treatment of undescended testis. Undescended testis is a common pediatric condition and is conventionally managed surgically by orchidopexy. A single scrotal incision orchidopexy has become accepted as a valid approach for patients with palpable undescended testicles. Because this approach also allows easy detection of atrophic testes or testicular remnants, it recently has also emerged as an alternative initial surgical approach to impalpable undescended testicles.\nAnswer: yes"
+  },
+  {
+    "question": "Does a 4 diagram manual enable laypersons to operate the Laryngeal Mask Supreme\u00ae?",
+    "abstract": "Bystander resuscitation plays an important role in lifesaving cardiopulmonary resuscitation (CPR). A significant reduction in the \"no-flow-time\", quantitatively better chest compressions and an improved quality of ventilation can be demonstrated during CPR using supraglottic airway devices (SADs). Previous studies have demonstrated the ability of inexperienced persons to operate SADs after brief instruction. The aim of this pilot study was to determine whether an instruction manual consisting of four diagrams enables laypersons to operate a Laryngeal Mask Supreme\u00ae (LMAS) in the manikin.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Does a 4 diagram manual enable laypersons to operate the Laryngeal Mask Supreme\u00ae?\nAbstract: Bystander resuscitation plays an important role in lifesaving cardiopulmonary resuscitation (CPR). A significant reduction in the \"no-flow-time\", quantitatively better chest compressions and an improved quality of ventilation can be demonstrated during CPR using supraglottic airway devices (SADs). Previous studies have demonstrated the ability of inexperienced persons to operate SADs after brief instruction. The aim of this pilot study was to determine whether an instruction manual consisting of four diagrams enables laypersons to operate a Laryngeal Mask Supreme\u00ae (LMAS) in the manikin.\nAnswer: yes"
+  },
+  {
+    "question": "Are laboratories reporting serum quantitative hCG results correctly?",
+    "abstract": "Human chorionic gonadotropin (hCG) is a heterodimeric glycoprotein hormone that exists in multiple forms. Immunoassays commonly used in clinical laboratories measure intact hCG, total beta hCG (intact hCG + hCG free beta-subunit), and/or hCG free beta-subunit. Measurement of serum concentrations of hCG is useful for confirmation and monitoring of pregnancy, diagnosis of trophoblastic diseases and monitoring of the efficacy of treatment, and prenatal screening. Correctly reporting results for the various forms of hCG is clinically important.",
+    "answer": "no",
+    "formatted_prompt": "Question: Are laboratories reporting serum quantitative hCG results correctly?\nAbstract: Human chorionic gonadotropin (hCG) is a heterodimeric glycoprotein hormone that exists in multiple forms. Immunoassays commonly used in clinical laboratories measure intact hCG, total beta hCG (intact hCG + hCG free beta-subunit), and/or hCG free beta-subunit. Measurement of serum concentrations of hCG is useful for confirmation and monitoring of pregnancy, diagnosis of trophoblastic diseases and monitoring of the efficacy of treatment, and prenatal screening. Correctly reporting results for the various forms of hCG is clinically important.\nAnswer: no"
+  },
+  {
+    "question": "Do preoperative statins reduce atrial fibrillation after coronary artery bypass grafting?",
+    "abstract": "Recent studies have demonstrated that statins have pleiotropic effects, including anti-inflammatory effects and atrial fibrillation (AF) preventive effects. The objective of this study was to assess the efficacy of preoperative statin therapy in preventing AF after coronary artery bypass grafting (CABG).",
+    "answer": "yes",
+    "formatted_prompt": "Question: Do preoperative statins reduce atrial fibrillation after coronary artery bypass grafting?\nAbstract: Recent studies have demonstrated that statins have pleiotropic effects, including anti-inflammatory effects and atrial fibrillation (AF) preventive effects. The objective of this study was to assess the efficacy of preoperative statin therapy in preventing AF after coronary artery bypass grafting (CABG).\nAnswer: yes"
+  },
+  {
+    "question": "Increased neutrophil migratory activity after major trauma: a factor in the etiology of acute respiratory distress syndrome?",
+    "abstract": "Neutrophil infiltration of the lung is characteristic of early posttraumatic acute respiratory distress syndrome (ARDS). This study examines the ability of neutrophils isolated (over the first 24 hrs) from the peripheral blood of patients admitted after major trauma to migrate in response to interleukin-8. Interleukin-8 is elevated in the lung within 2 hrs of major trauma in patients who later develop ARDS, and thus it plays a central role in the recruitment of neutrophils to the lung and their subsequent activation. We hypothesized that enhanced interleukin-8-mediated neutrophil migratory activity in the early postinjury phase, before the development of ARDS, may be a crucial factor in the etiology of ARDS.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Increased neutrophil migratory activity after major trauma: a factor in the etiology of acute respiratory distress syndrome?\nAbstract: Neutrophil infiltration of the lung is characteristic of early posttraumatic acute respiratory distress syndrome (ARDS). This study examines the ability of neutrophils isolated (over the first 24 hrs) from the peripheral blood of patients admitted after major trauma to migrate in response to interleukin-8. Interleukin-8 is elevated in the lung within 2 hrs of major trauma in patients who later develop ARDS, and thus it plays a central role in the recruitment of neutrophils to the lung and their subsequent activation. We hypothesized that enhanced interleukin-8-mediated neutrophil migratory activity in the early postinjury phase, before the development of ARDS, may be a crucial factor in the etiology of ARDS.\nAnswer: yes"
+  },
+  {
+    "question": "Women with synchronous primary cancers of the endometrium and ovary: do they have Lynch syndrome?",
+    "abstract": "Lynch syndrome (hereditary nonpolyposis colorectal cancer; HNPCC) is an autosomal-dominant cancer predisposition syndrome that increases risk for multiple cancers, including colon, endometrial, and ovarian cancer. Revised Bethesda Criteria recommend that patients with two HNPCC-associated cancers undergo molecular evaluation to determine whether they have a mismatch repair (MMR) defect associated with HNPCC. The purpose of our study was to determine the likelihood of MMR defects (MSH2, MSH6, MLH1) in women with synchronous endometrial and ovarian cancer.",
+    "answer": "maybe",
+    "formatted_prompt": "Question: Women with synchronous primary cancers of the endometrium and ovary: do they have Lynch syndrome?\nAbstract: Lynch syndrome (hereditary nonpolyposis colorectal cancer; HNPCC) is an autosomal-dominant cancer predisposition syndrome that increases risk for multiple cancers, including colon, endometrial, and ovarian cancer. Revised Bethesda Criteria recommend that patients with two HNPCC-associated cancers undergo molecular evaluation to determine whether they have a mismatch repair (MMR) defect associated with HNPCC. The purpose of our study was to determine the likelihood of MMR defects (MSH2, MSH6, MLH1) in women with synchronous endometrial and ovarian cancer.\nAnswer: maybe"
+  },
+  {
+    "question": "Is CA72-4 a useful biomarker in differential diagnosis between ovarian endometrioma and epithelial ovarian cancer?",
+    "abstract": "Surgical excision of ovarian endometriomas in patients desiring pregnancy has recently been criticized because of the risk of damage to healthy ovarian tissue and consequent reduction of ovarian reserve. A correct diagnosis in cases not scheduled for surgery is therefore mandatory in order to avoid unexpected ovarian cancer misdiagnosis. Endometriosis is often associated with high levels of CA125. This marker is therefore not useful for discriminating ovarian endometrioma from ovarian malignancy. The aim of this study was to establish if the serum marker CA72-4 could be helpful in the differential diagnosis between ovarian endometriosis and epithelial ovarian cancer.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Is CA72-4 a useful biomarker in differential diagnosis between ovarian endometrioma and epithelial ovarian cancer?\nAbstract: Surgical excision of ovarian endometriomas in patients desiring pregnancy has recently been criticized because of the risk of damage to healthy ovarian tissue and consequent reduction of ovarian reserve. A correct diagnosis in cases not scheduled for surgery is therefore mandatory in order to avoid unexpected ovarian cancer misdiagnosis. Endometriosis is often associated with high levels of CA125. This marker is therefore not useful for discriminating ovarian endometrioma from ovarian malignancy. The aim of this study was to establish if the serum marker CA72-4 could be helpful in the differential diagnosis between ovarian endometriosis and epithelial ovarian cancer.\nAnswer: yes"
+  },
+  {
+    "question": "Delayed peripheral facial palsy in the stapes surgery: can it be prevented?",
+    "abstract": "The aim of this study was to evaluate poststapedectomy-delayed facial palsy etiopathogenesis, risk factors, evolution, and prevention.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Delayed peripheral facial palsy in the stapes surgery: can it be prevented?\nAbstract: The aim of this study was to evaluate poststapedectomy-delayed facial palsy etiopathogenesis, risk factors, evolution, and prevention.\nAnswer: yes"
+  },
+  {
+    "question": "Is the determination of specific IgE against components using ISAC 112 a reproducible technique?",
+    "abstract": "The ImmunoCAP ISAC 112 is a fluoro-immunoassay that allows detection of specific IgE to 112 molecular components from 51 allergenic sources. We studied the reliability of this technique intra- and inter- assay, as well as inter-batch- and inter-laboratory-assay.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Is the determination of specific IgE against components using ISAC 112 a reproducible technique?\nAbstract: The ImmunoCAP ISAC 112 is a fluoro-immunoassay that allows detection of specific IgE to 112 molecular components from 51 allergenic sources. We studied the reliability of this technique intra- and inter- assay, as well as inter-batch- and inter-laboratory-assay.\nAnswer: yes"
+  },
+  {
+    "question": "Is solitary kidney really more resistant to ischemia?",
+    "abstract": "To our knowledge there are no evidence-based medicine data to date to critically judge the vulnerability of a solitary kidney to warm ischemia compared to paired kidneys.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Is solitary kidney really more resistant to ischemia?\nAbstract: To our knowledge there are no evidence-based medicine data to date to critically judge the vulnerability of a solitary kidney to warm ischemia compared to paired kidneys.\nAnswer: yes"
+  },
+  {
+    "question": "Actinobaculum schaalii, a cause of urinary tract infections in children?",
+    "abstract": "Urine samples were examined by wet smear microscopy, incubated in 5% CO(2) for 1-2 days, and species-specific real-time polymerase chain reaction (PCR) for A. schaalii was performed.",
+    "answer": "maybe",
+    "formatted_prompt": "Question: Actinobaculum schaalii, a cause of urinary tract infections in children?\nAbstract: Urine samples were examined by wet smear microscopy, incubated in 5% CO(2) for 1-2 days, and species-specific real-time polymerase chain reaction (PCR) for A. schaalii was performed.\nAnswer: maybe"
+  },
+  {
+    "question": "Inhibin: a new circulating marker of hydatidiform mole?",
+    "abstract": "To define the concentrations of inhibin in serum and tissue of patients with hydatidiform mole and assess their value as a clinical marker of the condition.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Inhibin: a new circulating marker of hydatidiform mole?\nAbstract: To define the concentrations of inhibin in serum and tissue of patients with hydatidiform mole and assess their value as a clinical marker of the condition.\nAnswer: yes"
+  }
+]

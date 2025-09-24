@@ -1,0 +1,196 @@
+{
+  "experiment_type": "cross_domain_transfer",
+  "source_domain": "PubMedQA (general biomedical)",
+  "target_domain": "COVID-19 biomedical QA",
+  "dataset_size": 15,
+  "fine_tuned_accuracy": 0.4666666666666667,
+  "few_shot_accuracy": 0.7333333333333333,
+  "performance_difference": 0.2666666666666666,
+  "relative_improvement": 57.14285714285713,
+  "winner": "few_shot",
+  "fine_tuned_predictions": [
+    {
+      "question": "Does COVID-19 cause cardiovascular complications?",
+      "actual": "Yes",
+      "predicted": "maybe",
+      "correct": false
+    },
+    {
+      "question": "Is hydroxychloroquine effective for treating COVID-19?",
+      "actual": "No",
+      "predicted": "maybe",
+      "correct": false
+    },
+    {
+      "question": "Can COVID-19 vaccines prevent severe disease?",
+      "actual": "Yes",
+      "predicted": "yes",
+      "correct": true
+    },
+    {
+      "question": "Does COVID-19 affect neurological function?",
+      "actual": "Yes",
+      "predicted": "maybe",
+      "correct": false
+    },
+    {
+      "question": "Is remdesivir effective against COVID-19?",
+      "actual": "Maybe",
+      "predicted": "yes",
+      "correct": false
+    },
+    {
+      "question": "Can children transmit COVID-19 effectively?",
+      "actual": "Yes",
+      "predicted": "maybe",
+      "correct": false
+    },
+    {
+      "question": "Does COVID-19 cause permanent lung damage?",
+      "actual": "Maybe",
+      "predicted": "yes",
+      "correct": false
+    },
+    {
+      "question": "Are COVID-19 antibody tests reliable for immunity assessment?",
+      "actual": "Maybe",
+      "predicted": "maybe",
+      "correct": true
+    },
+    {
+      "question": "Does vitamin D deficiency increase COVID-19 risk?",
+      "actual": "Maybe",
+      "predicted": "maybe",
+      "correct": true
+    },
+    {
+      "question": "Can COVID-19 cause diabetes?",
+      "actual": "Maybe",
+      "predicted": "maybe",
+      "correct": true
+    },
+    {
+      "question": "Is COVID-19 primarily transmitted through airborne particles?",
+      "actual": "Yes",
+      "predicted": "yes",
+      "correct": true
+    },
+    {
+      "question": "Do face masks prevent COVID-19 transmission?",
+      "actual": "Yes",
+      "predicted": "yes",
+      "correct": true
+    },
+    {
+      "question": "Can COVID-19 reinfection occur frequently?",
+      "actual": "No",
+      "predicted": "maybe",
+      "correct": false
+    },
+    {
+      "question": "Does COVID-19 vaccination cause fertility problems?",
+      "actual": "No",
+      "predicted": "no",
+      "correct": true
+    },
+    {
+      "question": "Is COVID-19 mortality higher in older adults?",
+      "actual": "Yes",
+      "predicted": "maybe",
+      "correct": false
+    }
+  ],
+  "few_shot_predictions": [
+    {
+      "question": "Does COVID-19 cause cardiovascular complications?",
+      "actual": "Yes",
+      "predicted": "yes",
+      "correct": true
+    },
+    {
+      "question": "Is hydroxychloroquine effective for treating COVID-19?",
+      "actual": "No",
+      "predicted": "maybe",
+      "correct": false
+    },
+    {
+      "question": "Can COVID-19 vaccines prevent severe disease?",
+      "actual": "Yes",
+      "predicted": "yes",
+      "correct": true
+    },
+    {
+      "question": "Does COVID-19 affect neurological function?",
+      "actual": "Yes",
+      "predicted": "maybe",
+      "correct": false
+    },
+    {
+      "question": "Is remdesivir effective against COVID-19?",
+      "actual": "Maybe",
+      "predicted": "maybe",
+      "correct": true
+    },
+    {
+      "question": "Can children transmit COVID-19 effectively?",
+      "actual": "Yes",
+      "predicted": "yes",
+      "correct": true
+    },
+    {
+      "question": "Does COVID-19 cause permanent lung damage?",
+      "actual": "Maybe",
+      "predicted": "maybe",
+      "correct": true
+    },
+    {
+      "question": "Are COVID-19 antibody tests reliable for immunity assessment?",
+      "actual": "Maybe",
+      "predicted": "maybe",
+      "correct": true
+    },
+    {
+      "question": "Does vitamin D deficiency increase COVID-19 risk?",
+      "actual": "Maybe",
+      "predicted": "maybe",
+      "correct": true
+    },
+    {
+      "question": "Can COVID-19 cause diabetes?",
+      "actual": "Maybe",
+      "predicted": "maybe",
+      "correct": true
+    },
+    {
+      "question": "Is COVID-19 primarily transmitted through airborne particles?",
+      "actual": "Yes",
+      "predicted": "yes",
+      "correct": true
+    },
+    {
+      "question": "Do face masks prevent COVID-19 transmission?",
+      "actual": "Yes",
+      "predicted": "yes",
+      "correct": true
+    },
+    {
+      "question": "Can COVID-19 reinfection occur frequently?",
+      "actual": "No",
+      "predicted": "maybe",
+      "correct": false
+    },
+    {
+      "question": "Does COVID-19 vaccination cause fertility problems?",
+      "actual": "No",
+      "predicted": "yes",
+      "correct": false
+    },
+    {
+      "question": "Is COVID-19 mortality higher in older adults?",
+      "actual": "Yes",
+      "predicted": "yes",
+      "correct": true
+    }
+  ],
+  "timestamp": "2025-09-22T19:23:35.832664"
+}

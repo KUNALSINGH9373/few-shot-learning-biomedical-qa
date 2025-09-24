@@ -1,0 +1,15 @@
+{
+  "total_examples": 1000,
+  "label_distribution": {
+    "yes": 552,
+    "no": 338,
+    "maybe": 110
+  },
+  "sample_questions": [
+    "Do mitochondria play a role in remodelling lace plant leaves during programmed cell death?",
+    "Landolt C and snellen e acuity: differences in strabismus amblyopia?",
+    "Syncope during bathing in infants, a pediatric form of water-induced urticaria?",
+    "Are the long-term results of the transanal pull-through equal to those of the transabdominal pull-through?",
+    "Can tailored interventions increase mammography use among HMO women?"
+  ]
+}

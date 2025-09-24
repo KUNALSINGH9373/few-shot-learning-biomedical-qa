@@ -1,0 +1,708 @@
+{
+  "model_type": "fine_tuned",
+  "accuracy": 0.4,
+  "correct": 40,
+  "total": 100,
+  "predictions": [
+    {
+      "question": "Does open access endoscopy close the door to an adequately informed patient?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Are sports medicine journals relevant and applicable to practitioners and athletes?",
+      "actual": "no",
+      "predicted": "yes",
+      "correct": false,
+      "generated_text": "yes.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Is there awareness of pharmaceutical expenditure in the reformed primary care system?",
+      "actual": "no",
+      "predicted": "yes",
+      "correct": false,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Rectal cancer threatening or affecting the prostatic plane: is partial prostatectomy oncologically adequate?",
+      "actual": "maybe",
+      "predicted": "maybe",
+      "correct": true,
+      "generated_text": "maybe.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Is Acupuncture Efficacious for Treating Phonotraumatic Vocal Pathologies?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: yes.\nAnswer:"
+    },
+    {
+      "question": "Gender difference in survival of resected non-small cell lung cancer: histology-related phenomenon?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Are normally sighted, visually impaired, and blind pedestrians accurate and reliable at making street crossing decisions?",
+      "actual": "maybe",
+      "predicted": "yes",
+      "correct": false,
+      "generated_text": "yes.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Orthostatic myoclonus: an underrecognized cause of unsteadiness?",
+      "actual": "yes",
+      "predicted": "maybe",
+      "correct": false,
+      "generated_text": "maybe.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Do symptoms matter when considering patients for phase I clinical trials?",
+      "actual": "yes",
+      "predicted": "maybe",
+      "correct": false,
+      "generated_text": "maybe.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Spleen-preserving distal pancreatectomy with resection of the splenic vessels. Should one rely on the short gastric arteries?",
+      "actual": "no",
+      "predicted": "yes",
+      "correct": false,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Are there risk factors that increase the rate of staple line leakage in patients undergoing primary sleeve gastrectomy for morbid obesity?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Does quilting suture prevent seroma in abdominoplasty?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Evaluation of pediatric VCUG at an academic children's hospital: is the radiographic scout image necessary?",
+      "actual": "no",
+      "predicted": "no",
+      "correct": true,
+      "generated_text": "no. The radiographic scout image is not necessary"
+    },
+    {
+      "question": "Does ibuprofen increase perioperative blood loss during hip arthroplasty?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Prostate-specific antigen and free prostate-specific antigen in the early detection of prostate cancer: do combination tests improve detection?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Does patella position influence ligament balancing in total knee arthroplasty?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Is Bare-Metal Stent Implantation Still Justifiable in High Bleeding Risk Patients Undergoing Percutaneous Coronary Intervention?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Assessment of carotid artery stenosis before coronary artery bypass surgery. Is it always necessary?",
+      "actual": "no",
+      "predicted": "no",
+      "correct": true,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Bony defects in chronic anterior posttraumatic dislocation of the shoulder: Is there a correlation between humeral and glenoidal lesions?",
+      "actual": "no",
+      "predicted": "yes",
+      "correct": false,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "School food policy at Dutch primary schools: room for improvement?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Does occupational nuclear power plant radiation affect conception and pregnancy?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Utility of unenhanced fat-suppressed T1-weighted MRI in children with sickle cell disease -- can it differentiate bone infarcts from acute osteomyelitis?",
+      "actual": "no",
+      "predicted": "maybe",
+      "correct": false,
+      "generated_text": "maybe. But maybe not.\nAnswer: maybe"
+    },
+    {
+      "question": "Birth characteristics and risk of low intellectual performance in early adulthood: are the associations confounded by socioeconomic factors in adolescence or familial effects?",
+      "actual": "no",
+      "predicted": "no",
+      "correct": true,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Do inhaled corticosteroids affect perception of dyspnea during bronchoconstriction in asthma?",
+      "actual": "yes",
+      "predicted": "maybe",
+      "correct": false,
+      "generated_text": "maybe.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Analysis of the epidemiological pattern of Shigellosis in Barcelona between 1988 and 2012: Is it an emerging sexually transmitted infection?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Can routine offering of influenza vaccination in office-based settings reduce racial and ethnic disparities in adult influenza vaccination?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Is pelvic pain associated with defecatory symptoms in women with pelvic organ prolapse?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Are WHO/UNAIDS/UNICEF-recommended replacement milks for infants of HIV-infected mothers appropriate in the South African context?",
+      "actual": "no",
+      "predicted": "yes",
+      "correct": false,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Is there an intrauterine influence on obesity?",
+      "actual": "no",
+      "predicted": "yes",
+      "correct": false,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Can myometrial electrical activity identify patients in preterm labor?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Cerebromediastinal tuberculosis in a child with a probable Say-Barber-Miller syndrome: a causative link?",
+      "actual": "yes",
+      "predicted": "maybe",
+      "correct": false,
+      "generated_text": "maybe.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Fatigue in primary Sj\u00f6gren's syndrome: is there a link with the fibromyalgia syndrome?",
+      "actual": "no",
+      "predicted": "no",
+      "correct": true,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "MiraLAX vs. Golytely: is there a significant difference in the adenoma detection rate?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Is intrapartum vibroacoustic stimulation an effective predictor of fetal acidosis?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Are intraoperative precursor events associated with postoperative major adverse events?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Cutaneous melanoma in a multiethnic population: is this a different disease?",
+      "actual": "maybe",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Can pictorial warning labels on cigarette packages address smoking-related health disparities?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Expression of c-kit protooncogen in hepatitis B virus-induced chronic hepatitis, cirrhosis and hepatocellular carcinoma: has it a diagnostic role?",
+      "actual": "maybe",
+      "predicted": "yes",
+      "correct": false,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Processing fluency effects: can the content and presentation of participant information sheets influence recruitment and participation for an antenatal intervention?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Has the mammography quality standards act affected the mammography quality in North Carolina?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Does immediate breast reconstruction compromise the delivery of adjuvant chemotherapy?",
+      "actual": "no",
+      "predicted": "maybe",
+      "correct": false,
+      "generated_text": "maybe.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Cold knife conization vs. LEEP. Are they the same procedure?",
+      "actual": "no",
+      "predicted": "no",
+      "correct": true,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Is ankle/arm pressure predictive for cardiovascular mortality in older patients living in nursing homes?",
+      "actual": "no",
+      "predicted": "no",
+      "correct": true,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Chronic functional somatic symptoms: a single syndrome?",
+      "actual": "no",
+      "predicted": "maybe",
+      "correct": false,
+      "generated_text": "maybe.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "An HIV1/2 point of care test on sputum for screening TB/HIV co-infection in Central India - Will it work?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Does confined placental mosaicism account for adverse perinatal outcomes in IVF pregnancies?",
+      "actual": "no",
+      "predicted": "yes",
+      "correct": false,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Quality of life in lung cancer patients: does socioeconomic status matter?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Are serum leptin levels a prognostic factor in advanced lung cancer?",
+      "actual": "no",
+      "predicted": "yes",
+      "correct": false,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Can CT predict the level of CSF block in tuberculous hydrocephalus?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Perioperative care in an animal model for training in abdominal surgery: is it necessary a preoperative fasting?",
+      "actual": "no",
+      "predicted": "no",
+      "correct": true,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Screening History Among Women with Invasive Cervical Cancer in an Academic Medical Center: Will We Miss Cancers Following Updated Guidelines?",
+      "actual": "no",
+      "predicted": "maybe",
+      "correct": false,
+      "generated_text": "maybe.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Are home sampling kits for sexually transmitted infections acceptable among men who have sex with men?",
+      "actual": "maybe",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Is there a model to teach and practice retroperitoneoscopic nephrectomy?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Do patients with localized prostate cancer treatment really want more aggressive treatment?",
+      "actual": "no",
+      "predicted": "maybe",
+      "correct": false,
+      "generated_text": "maybe.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Do lipids, blood pressure, diabetes, and smoking confer equal risk of myocardial infarction in women as in men?",
+      "actual": "no",
+      "predicted": "yes",
+      "correct": false,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Do microbiological factors account for poor pregnancy outcome among unmarried pregnant women in Poland?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Does treatment duration affect outcome after radiotherapy for prostate cancer?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Does aerobic fitness influence microvascular function in healthy adults at risk of developing Type 2 diabetes?",
+      "actual": "maybe",
+      "predicted": "maybe",
+      "correct": true,
+      "generated_text": "maybe.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Does the use of atypical antipsychotics as adjunctive therapy in depression result in cost savings?",
+      "actual": "no",
+      "predicted": "maybe",
+      "correct": false,
+      "generated_text": "maybe.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Does limb-salvage surgery offer patients better quality of life and functional capacity than amputation?",
+      "actual": "maybe",
+      "predicted": "maybe",
+      "correct": true,
+      "generated_text": "maybe. maybe. maybe. maybe. maybe."
+    },
+    {
+      "question": "Can vaginal pH be measured from the wet mount slide?",
+      "actual": "no",
+      "predicted": "yes",
+      "correct": false,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Can the prognosis of polymyalgia rheumatica be predicted at disease onset?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Can T-cell deficiency affect spatial learning ability following toluene exposure?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Do risk calculators accurately predict surgical site\u00a0occurrences?",
+      "actual": "no",
+      "predicted": "no",
+      "correct": true,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Do prerecorded lecture VODcasts affect lecture attendance of first-yearpre-clinical Graduate Entry to Medicine students?",
+      "actual": "no",
+      "predicted": "no",
+      "correct": true,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Is digoxin use for cardiovascular disease associated with risk of prostate cancer?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Does context matter for the relationship between deprivation and all-cause mortality?",
+      "actual": "no",
+      "predicted": "yes",
+      "correct": false,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Is there still a need for living-related liver transplantation in children?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Young-Burgess classification of pelvic ring fractures: does it predict mortality, transfusion requirements, and non-orthopaedic injuries?",
+      "actual": "maybe",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Landolt C and snellen e acuity: differences in strabismus amblyopia?",
+      "actual": "no",
+      "predicted": "yes",
+      "correct": false,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Biomolecular identification of allergenic pollen: a new perspective for aerobiological monitoring?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Hepatorenal syndrome: are we missing some prognostic factors?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Is amoxapine an atypical antipsychotic?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Is the international normalised ratio (INR) reliable?",
+      "actual": "maybe",
+      "predicted": "yes",
+      "correct": false,
+      "generated_text": "yes.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Does ischemic preconditioning require reperfusion before index ischemia?",
+      "actual": "no",
+      "predicted": "no",
+      "correct": true,
+      "generated_text": "no.\nAnswer: yes.\nAnswer:"
+    },
+    {
+      "question": "Do women with ovaries of polycystic morphology without any other features of PCOS benefit from short-term metformin co-treatment during IVF?",
+      "actual": "no",
+      "predicted": "yes",
+      "correct": false,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Is the 7th TNM edition suitable for biological predictor in early gastric cancer?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Health care for immigrants in Europe: is there still consensus among country experts about principles of good practice?",
+      "actual": "maybe",
+      "predicted": "yes",
+      "correct": false,
+      "generated_text": "yes.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Injury and poisoning mortality among young men--are there any common factors amenable to prevention?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Is there a differential in the dental health of new recruits to the British Armed Forces?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Can mass drug administration lead to the sustainable control of schistosomiasis?",
+      "actual": "no",
+      "predicted": "yes",
+      "correct": false,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Does head positioning influence anterior chamber depth in pseudoexfoliation syndrome?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Does delivery mode affect women's postpartum quality of life in rural China?",
+      "actual": "no",
+      "predicted": "yes",
+      "correct": false,
+      "generated_text": "yes.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Is plate clearing a risk factor for obesity?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Does the National Institutes of Health Stroke Scale favor left hemisphere strokes?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Nutritional assessment of gluten-free diet. Is gluten-free diet deficient in some nutrient?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Do emergency medical services professionals think they should participate in disease prevention?",
+      "actual": "maybe",
+      "predicted": "maybe",
+      "correct": true,
+      "generated_text": "maybe.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Does the familial transmission of drinking patterns persist into young adulthood?",
+      "actual": "maybe",
+      "predicted": "maybe",
+      "correct": true,
+      "generated_text": "maybe.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Does birth center care during a woman's first pregnancy have any impact on her future reproduction?",
+      "actual": "no",
+      "predicted": "no",
+      "correct": true,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Are reports of mechanical dysfunction in chronic oro-facial pain related to somatisation?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Does concept mapping enhance learning outcome of nursing students?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Can bone thickness and inter-radicular space affect miniscrew placement in posterior mandibular sites?",
+      "actual": "no",
+      "predicted": "yes",
+      "correct": false,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Treatment as prevention in resource-limited settings: is it feasible to maintain HIV viral load suppression over time?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Can echocardiography and ECG discriminate hereditary transthyretin V30M amyloidosis from hypertrophic cardiomyopathy?",
+      "actual": "yes",
+      "predicted": "yes",
+      "correct": true,
+      "generated_text": "yes.\nAnswer: no.\nAnswer:"
+    },
+    {
+      "question": "Is aneurysm repair justified for the patients aged 80 or older after aneurysmal subarachnoid hemorrhage?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Does oxybutynin hydrochloride cause arrhythmia in children with bladder dysfunction?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Do African American women require fewer calories to maintain weight?",
+      "actual": "no",
+      "predicted": "maybe",
+      "correct": false,
+      "generated_text": "maybe.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Gadofosveset-enhanced MR angiography of carotid arteries: does steady-state imaging improve accuracy of first-pass imaging?",
+      "actual": "yes",
+      "predicted": "no",
+      "correct": false,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Is specialty care associated with improved survival of patients with congestive heart failure?",
+      "actual": "yes",
+      "predicted": "maybe",
+      "correct": false,
+      "generated_text": "maybe.\nAnswer: maybe.\nAnswer:"
+    },
+    {
+      "question": "Is ganglionated plexi ablation during Maze IV procedure beneficial for postoperative long-term stable sinus rhythm?",
+      "actual": "no",
+      "predicted": "no",
+      "correct": true,
+      "generated_text": "no.\nAnswer: maybe.\nAnswer:"
+    }
+  ]
+}

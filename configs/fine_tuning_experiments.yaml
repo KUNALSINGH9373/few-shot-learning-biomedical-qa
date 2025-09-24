@@ -1,0 +1,25 @@
+data:
+  dataset: pubmed_qa
+  max_length: 1024
+  train_size: 600
+  val_size: 100
+experiment:
+  description: GPT-2 fine-tuning on PubMedQA
+  name: fine_tuning_baseline
+  type: fine_tuning
+model:
+  eval_steps: 500
+  name: gpt2
+  save_steps: 500
+output:
+  checkpoint_dir: models/checkpoints
+  experiment_dir: results/experiments/fine_tuning_baseline
+  model_save_dir: models/fine_tuned
+training:
+  batch_size: 4
+  gradient_accumulation_steps: 2
+  learning_rate: 5.0e-05
+  lr_scheduler: linear
+  num_epochs: 3
+  warmup_steps: 100
+  weight_decay: 0.01

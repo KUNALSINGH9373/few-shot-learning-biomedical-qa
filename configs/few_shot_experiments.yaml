@@ -1,0 +1,29 @@
+data:
+  dataset: pubmed_qa
+  few_shot_pool_size: 50
+  max_length: 800
+  test_size: 350
+  val_size: 100
+experiment:
+  description: Baseline few-shot prompting experiments
+  name: few_shot_baseline
+  type: few_shot_prompting
+experiment_settings:
+  max_eval_samples: 100
+  num_runs: 1
+  shot_counts:
+  - 0
+  - 1
+  - 2
+  - 5
+  - 10
+  - 15
+  - 20
+model:
+  max_new_tokens: 10
+  name: gpt2
+  temperature: 0.1
+output:
+  experiment_dir: results/experiments/few_shot_baseline
+  save_plots: true
+  save_predictions: true

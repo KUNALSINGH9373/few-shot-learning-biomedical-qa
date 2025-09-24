@@ -1,0 +1,9 @@
+device: auto
+logging:
+  format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+  level: INFO
+project:
+  description: Reproduction of GPT-2 few-shot learning vs fine-tuning
+  name: few-shot-learning-reproduction
+  version: 1.0.0
+random_seed: 42

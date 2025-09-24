@@ -1,0 +1,1698 @@
+{
+  "accuracy_trends": {
+    "0_shot": 0.15,
+    "1_shot": 0.42,
+    "2_shot": 0.52,
+    "5_shot": 0.53,
+    "10_shot": 0.53,
+    "15_shot": 0.53,
+    "20_shot": 0.53
+  },
+  "error_patterns": {
+    "0": {
+      "confusion_matrix": {
+        "yes": {
+          "maybe": 43,
+          "no": 9,
+          "yes": 1
+        },
+        "no": {
+          "maybe": 31,
+          "no": 4
+        },
+        "maybe": {
+          "maybe": 10,
+          "no": 2
+        }
+      },
+      "error_examples": {
+        "yes_to_maybe": [
+          {
+            "question": "Does open access endoscopy close the door to an adequately informed patient?",
+            "generated": "The aim of this study was to compare the extent"
+          },
+          {
+            "question": "Is Acupuncture Efficacious for Treating Phonotraumatic Vocal Pathologies?",
+            "generated": "Acupuncture Efficacy in Treating Phon"
+          },
+          {
+            "question": "Gender difference in survival of resected non-small cell lung cancer: histology-related phenomenon?",
+            "generated": "The study was conducted in a large population of patients"
+          },
+          {
+            "question": "Orthostatic myoclonus: an underrecognized cause of unsteadiness?",
+            "generated": "Orthostatic myoclonus is a common"
+          },
+          {
+            "question": "Are there risk factors that increase the rate of staple line leakage in patients undergoing primary sleeve gastrectomy for morbid obesity?",
+            "generated": "The current prevalence of laparoscopic sleeve gastrect"
+          },
+          {
+            "question": "Does quilting suture prevent seroma in abdominoplasty?",
+            "generated": "The use of quilting suture is a"
+          },
+          {
+            "question": "Prostate-specific antigen and free prostate-specific antigen in the early detection of prostate cancer: do combination tests improve detection?",
+            "generated": "The use of free prostate-specific antigen (PS"
+          },
+          {
+            "question": "Is Bare-Metal Stent Implantation Still Justifiable in High Bleeding Risk Patients Undergoing Percutaneous Coronary Intervention?",
+            "generated": "This study sought to investigate the ischemic and"
+          },
+          {
+            "question": "School food policy at Dutch primary schools: room for improvement?",
+            "generated": "School food policy is a complex issue. The main"
+          },
+          {
+            "question": "Analysis of the epidemiological pattern of Shigellosis in Barcelona between 1988 and 2012: Is it an emerging sexually transmitted infection?",
+            "generated": "The epidemiological pattern of shigellosis in"
+          },
+          {
+            "question": "Can routine offering of influenza vaccination in office-based settings reduce racial and ethnic disparities in adult influenza vaccination?",
+            "generated": "The CDC recommends that all health care providers in the"
+          },
+          {
+            "question": "Is pelvic pain associated with defecatory symptoms in women with pelvic organ prolapse?",
+            "generated": "POP is a condition in which the pelvic organs"
+          },
+          {
+            "question": "Cerebromediastinal tuberculosis in a child with a probable Say-Barber-Miller syndrome: a causative link?",
+            "generated": "Cerebromediastinal tuberculosis in a child"
+          },
+          {
+            "question": "MiraLAX vs. Golytely: is there a significant difference in the adenoma detection rate?",
+            "generated": "MiraLAX is more effective than Mira"
+          },
+          {
+            "question": "Is intrapartum vibroacoustic stimulation an effective predictor of fetal acidosis?",
+            "generated": "The hypothesis of this prospective study is that VAS"
+          },
+          {
+            "question": "Are intraoperative precursor events associated with postoperative major adverse events?",
+            "generated": "The present study was designed to assess the association between"
+          },
+          {
+            "question": "Can pictorial warning labels on cigarette packages address smoking-related health disparities?",
+            "generated": "The purpose of this study was to determine the effectiveness"
+          },
+          {
+            "question": "Processing fluency effects: can the content and presentation of participant information sheets influence recruitment and participation for an antenatal intervention?",
+            "generated": "To assess the extent to which the title and font"
+          },
+          {
+            "question": "Has the mammography quality standards act affected the mammography quality in North Carolina?",
+            "generated": "The MQSA was enacted in 1994 to ensure"
+          },
+          {
+            "question": "An HIV1/2 point of care test on sputum for screening TB/HIV co-infection in Central India - Will it work?",
+            "generated": "The OraQuick\u00ae HIV-1/2"
+          },
+          {
+            "question": "Can CT predict the level of CSF block in tuberculous hydrocephalus?",
+            "generated": "CT is a method of imaging the CSF in"
+          },
+          {
+            "question": "Is there a model to teach and practice retroperitoneoscopic nephrectomy?",
+            "generated": "Retroperitoneoscopy is a laparoscopic"
+          },
+          {
+            "question": "Do microbiological factors account for poor pregnancy outcome among unmarried pregnant women in Poland?",
+            "generated": "The study was conducted in the Polish community of the"
+          },
+          {
+            "question": "Can T-cell deficiency affect spatial learning ability following toluene exposure?",
+            "generated": "The present study was designed to investigate the possible role"
+          },
+          {
+            "question": "Is digoxin use for cardiovascular disease associated with risk of prostate cancer?",
+            "generated": "The current study was designed to examine the relationship between"
+          },
+          {
+            "question": "Is there still a need for living-related liver transplantation in children?",
+            "generated": "The LRT is a transplant that is performed in"
+          },
+          {
+            "question": "Biomolecular identification of allergenic pollen: a new perspective for aerobiological monitoring?",
+            "generated": "The current approach is based on a morphologic approach"
+          },
+          {
+            "question": "Hepatorenal syndrome: are we missing some prognostic factors?",
+            "generated": "Hepatorenal syndrome is a functional renal failure"
+          },
+          {
+            "question": "Is amoxapine an atypical antipsychotic?",
+            "generated": "The PET study was conducted in a population of patients"
+          },
+          {
+            "question": "Injury and poisoning mortality among young men--are there any common factors amenable to prevention?",
+            "generated": "Injury and poisoning mortality among young men--are there"
+          },
+          {
+            "question": "Is there a differential in the dental health of new recruits to the British Armed Forces?",
+            "generated": "The results of this study suggest that the dental health"
+          },
+          {
+            "question": "Does head positioning influence anterior chamber depth in pseudoexfoliation syndrome?",
+            "generated": "The study was conducted in a randomized, double-"
+          },
+          {
+            "question": "Is plate clearing a risk factor for obesity?",
+            "generated": "The present study was designed to investigate the association between"
+          },
+          {
+            "question": "Does the National Institutes of Health Stroke Scale favor left hemisphere strokes?",
+            "generated": "The Stroke Scale is a valid, reproducible"
+          },
+          {
+            "question": "Nutritional assessment of gluten-free diet. Is gluten-free diet deficient in some nutrient?",
+            "generated": "The current study was designed to assess the impact of"
+          },
+          {
+            "question": "Are reports of mechanical dysfunction in chronic oro-facial pain related to somatisation?",
+            "generated": "(i) To examine the association between self-"
+          },
+          {
+            "question": "Does concept mapping enhance learning outcome of nursing students?",
+            "generated": "The study design was designed to assess the effect of"
+          },
+          {
+            "question": "Treatment as prevention in resource-limited settings: is it feasible to maintain HIV viral load suppression over time?",
+            "generated": "TasP is a strategy that is designed to reduce"
+          },
+          {
+            "question": "Can echocardiography and ECG discriminate hereditary transthyretin V30M amyloidosis from hypertrophic cardiomyopathy?",
+            "generated": "Echocardiography and ECG are used"
+          },
+          {
+            "question": "Is aneurysm repair justified for the patients aged 80 or older after aneurysmal subarachnoid hemorrhage?",
+            "generated": "The primary objective of this study was to determine the"
+          },
+          {
+            "question": "Does oxybutynin hydrochloride cause arrhythmia in children with bladder dysfunction?",
+            "generated": "This study is a subset of a complete data set"
+          },
+          {
+            "question": "Gadofosveset-enhanced MR angiography of carotid arteries: does steady-state imaging improve accuracy of first-pass imaging?",
+            "generated": "The MR angiography of the carotid"
+          },
+          {
+            "question": "Is specialty care associated with improved survival of patients with congestive heart failure?",
+            "generated": "The association between pattern of outpatient care and survival of"
+          }
+        ],
+        "no_to_maybe": [
+          {
+            "question": "Are sports medicine journals relevant and applicable to practitioners and athletes?",
+            "generated": "To assess the evidence base of sports medicine research and"
+          },
+          {
+            "question": "Is there awareness of pharmaceutical expenditure in the reformed primary care system?",
+            "generated": "To assess the effectiveness of feeding information on pharmacy back"
+          },
+          {
+            "question": "Spleen-preserving distal pancreatectomy with resection of the splenic vessels. Should one rely on the short gastric arteries?",
+            "generated": "Spleen-preserving distal pancre"
+          },
+          {
+            "question": "Assessment of carotid artery stenosis before coronary artery bypass surgery. Is it always necessary?",
+            "generated": "The primary objective of this study was to evaluate the"
+          },
+          {
+            "question": "Utility of unenhanced fat-suppressed T1-weighted MRI in children with sickle cell disease -- can it differentiate bone infarcts from acute osteomyelitis?",
+            "generated": "The clinical differentiation between a bone infarct and"
+          },
+          {
+            "question": "Birth characteristics and risk of low intellectual performance in early adulthood: are the associations confounded by socioeconomic factors in adolescence or familial effects?",
+            "generated": "The association between measures of fetal growth restriction and intellectual"
+          },
+          {
+            "question": "Are WHO/UNAIDS/UNICEF-recommended replacement milks for infants of HIV-infected mothers appropriate in the South African context?",
+            "generated": "The study was conducted in a rural area of K"
+          },
+          {
+            "question": "Is there an intrauterine influence on obesity?",
+            "generated": "The association between maternal body mass index (BMI"
+          },
+          {
+            "question": "Fatigue in primary Sj\u00f6gren's syndrome: is there a link with the fibromyalgia syndrome?",
+            "generated": "The association and prevalence of fatigue and FM were recorded"
+          },
+          {
+            "question": "Does immediate breast reconstruction compromise the delivery of adjuvant chemotherapy?",
+            "generated": "IBR is a common complication of early breast cancer"
+          },
+          {
+            "question": "Cold knife conization vs. LEEP. Are they the same procedure?",
+            "generated": "Cold knife conization vs. LEEP. Are"
+          },
+          {
+            "question": "Is ankle/arm pressure predictive for cardiovascular mortality in older patients living in nursing homes?",
+            "generated": "The authors found that the association between ankle/arm"
+          },
+          {
+            "question": "Chronic functional somatic symptoms: a single syndrome?",
+            "generated": "The current literature is limited by the lack of data"
+          },
+          {
+            "question": "Does confined placental mosaicism account for adverse perinatal outcomes in IVF pregnancies?",
+            "generated": "The incidence of CPM in IVF/IC"
+          },
+          {
+            "question": "Are serum leptin levels a prognostic factor in advanced lung cancer?",
+            "generated": "The serum leptin levels were measured by using a micro"
+          },
+          {
+            "question": "Perioperative care in an animal model for training in abdominal surgery: is it necessary a preoperative fasting?",
+            "generated": "Perioperative care in an animal model for training"
+          },
+          {
+            "question": "Screening History Among Women with Invasive Cervical Cancer in an Academic Medical Center: Will We Miss Cancers Following Updated Guidelines?",
+            "generated": "The current Pap test guidelines are based on the current"
+          },
+          {
+            "question": "Do patients with localized prostate cancer treatment really want more aggressive treatment?",
+            "generated": "The choice of radiotherapy is based on the patient"
+          },
+          {
+            "question": "Do lipids, blood pressure, diabetes, and smoking confer equal risk of myocardial infarction in women as in men?",
+            "generated": "The Reykjavik Study is a prospective cohort"
+          },
+          {
+            "question": "Does the use of atypical antipsychotics as adjunctive therapy in depression result in cost savings?",
+            "generated": "The use of atypical antipsychotics as"
+          },
+          {
+            "question": "Can vaginal pH be measured from the wet mount slide?",
+            "generated": "The vaginal pH measurement was performed using a vaginal pH"
+          },
+          {
+            "question": "Do risk calculators accurately predict surgical site\u00a0occurrences?",
+            "generated": "The current models stratify patients into groups by risk"
+          },
+          {
+            "question": "Does context matter for the relationship between deprivation and all-cause mortality?",
+            "generated": "The spatial heterogeneity in the relationship between deprivation and mortality"
+          },
+          {
+            "question": "Landolt C and snellen e acuity: differences in strabismus amblyopia?",
+            "generated": "The Snellen E acuity was measured using the"
+          },
+          {
+            "question": "Does ischemic preconditioning require reperfusion before index ischemia?",
+            "generated": "The ICP is initiated by a short bout of"
+          },
+          {
+            "question": "Do women with ovaries of polycystic morphology without any other features of PCOS benefit from short-term metformin co-treatment during IVF?",
+            "generated": "The aim of this study was to investigate whether met"
+          },
+          {
+            "question": "Can mass drug administration lead to the sustainable control of schistosomiasis?",
+            "generated": "The current national control strategy for schistosom"
+          },
+          {
+            "question": "Does delivery mode affect women's postpartum quality of life in rural China?",
+            "generated": "The study was conducted in rural China."
+          },
+          {
+            "question": "Does birth center care during a woman's first pregnancy have any impact on her future reproduction?",
+            "generated": "The study objective was to examine whether the birth center"
+          },
+          {
+            "question": "Can bone thickness and inter-radicular space affect miniscrew placement in posterior mandibular sites?",
+            "generated": "The miniscrew insertion angle is a critical factor"
+          },
+          {
+            "question": "Do African American women require fewer calories to maintain weight?",
+            "generated": "The high prevalence of obesity in African American (AA"
+          }
+        ],
+        "yes_to_no": [
+          {
+            "question": "Do symptoms matter when considering patients for phase I clinical trials?",
+            "generated": "The symptoms of OA are not known."
+          },
+          {
+            "question": "Does ibuprofen increase perioperative blood loss during hip arthroplasty?",
+            "generated": "No, no, or maybe based on the abstract"
+          },
+          {
+            "question": "Does patella position influence ligament balancing in total knee arthroplasty?",
+            "generated": "No, no, and no.\n\nQuestion"
+          },
+          {
+            "question": "Does occupational nuclear power plant radiation affect conception and pregnancy?",
+            "generated": "No, no, no, no, no,"
+          },
+          {
+            "question": "Do inhaled corticosteroids affect perception of dyspnea during bronchoconstriction in asthma?",
+            "generated": "The interrelationships between the two are not clear"
+          },
+          {
+            "question": "Quality of life in lung cancer patients: does socioeconomic status matter?",
+            "generated": "The study found that socioeconomic status was associated with a"
+          },
+          {
+            "question": "Does treatment duration affect outcome after radiotherapy for prostate cancer?",
+            "generated": "The duration of RT is not affected by treatment duration"
+          },
+          {
+            "question": "Can the prognosis of polymyalgia rheumatica be predicted at disease onset?",
+            "generated": "The prognosis of polymyalgia rheumatic"
+          },
+          {
+            "question": "Is the 7th TNM edition suitable for biological predictor in early gastric cancer?",
+            "generated": "The current node classification of EGC is based on"
+          }
+        ],
+        "maybe_to_no": [
+          {
+            "question": "Cutaneous melanoma in a multiethnic population: is this a different disease?",
+            "generated": "Cutaneous melanoma in nonwhite persons is a"
+          },
+          {
+            "question": "Does the familial transmission of drinking patterns persist into young adulthood?",
+            "generated": "The relationship between drinking and offspring drinking is not well"
+          }
+        ]
+      }
+    },
+    "1": {
+      "confusion_matrix": {
+        "yes": {
+          "yes": 34,
+          "no": 18,
+          "maybe": 1
+        },
+        "no": {
+          "yes": 26,
+          "no": 8,
+          "maybe": 1
+        },
+        "maybe": {
+          "yes": 8,
+          "no": 4
+        }
+      },
+      "error_examples": {
+        "no_to_yes": [
+          {
+            "question": "Are sports medicine journals relevant and applicable to practitioners and athletes?",
+            "generated": "yes\n\nQuestion: Is there a need for"
+          },
+          {
+            "question": "Is there awareness of pharmaceutical expenditure in the reformed primary care system?",
+            "generated": "yes\n\nQuestion: Is there a need for"
+          },
+          {
+            "question": "Spleen-preserving distal pancreatectomy with resection of the splenic vessels. Should one rely on the short gastric arteries?",
+            "generated": "yes\n\nQuestion: Is the Pancreas"
+          },
+          {
+            "question": "Evaluation of pediatric VCUG at an academic children's hospital: is the radiographic scout image necessary?",
+            "generated": "yes\n\nQuestion: Is the Androgen Def"
+          },
+          {
+            "question": "Assessment of carotid artery stenosis before coronary artery bypass surgery. Is it always necessary?",
+            "generated": "yes\n\nQuestion: Is the Androgen Def"
+          },
+          {
+            "question": "Bony defects in chronic anterior posttraumatic dislocation of the shoulder: Is there a correlation between humeral and glenoidal lesions?",
+            "generated": "yes\n\nQuestion: Is the Androgen Def"
+          },
+          {
+            "question": "Utility of unenhanced fat-suppressed T1-weighted MRI in children with sickle cell disease -- can it differentiate bone infarcts from acute osteomyelitis?",
+            "generated": "yes\n\nQuestion: Is the T1-"
+          },
+          {
+            "question": "Birth characteristics and risk of low intellectual performance in early adulthood: are the associations confounded by socioeconomic factors in adolescence or familial effects?",
+            "generated": "yes\n\nQuestion: Is the risk of low"
+          },
+          {
+            "question": "Are WHO/UNAIDS/UNICEF-recommended replacement milks for infants of HIV-infected mothers appropriate in the South African context?",
+            "generated": "yes\n\nQuestion: Is the use of the"
+          },
+          {
+            "question": "Is there an intrauterine influence on obesity?",
+            "generated": "yes\n\nQuestion: Is there a relationship between"
+          },
+          {
+            "question": "Does immediate breast reconstruction compromise the delivery of adjuvant chemotherapy?",
+            "generated": "yes\n\nQuestion: Does the use of adj"
+          },
+          {
+            "question": "Chronic functional somatic symptoms: a single syndrome?",
+            "generated": "yes\n\nQuestion: Is there a need for"
+          },
+          {
+            "question": "Perioperative care in an animal model for training in abdominal surgery: is it necessary a preoperative fasting?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Screening History Among Women with Invasive Cervical Cancer in an Academic Medical Center: Will We Miss Cancers Following Updated Guidelines?",
+            "generated": "yes\n\nQuestion: Is the Pap Test for"
+          },
+          {
+            "question": "Do patients with localized prostate cancer treatment really want more aggressive treatment?",
+            "generated": "yes\n\nQuestion: Do patients with prostate cancer"
+          },
+          {
+            "question": "Can vaginal pH be measured from the wet mount slide?",
+            "generated": "yes\n\nQuestion: Can a vaginal pH test"
+          },
+          {
+            "question": "Do risk calculators accurately predict surgical site\u00a0occurrences?",
+            "generated": "yes\n\nQuestion: Do risk calculators accurately"
+          },
+          {
+            "question": "Does context matter for the relationship between deprivation and all-cause mortality?",
+            "generated": "yes\n\nQuestion: Does the relationship between deprivation"
+          },
+          {
+            "question": "Landolt C and snellen e acuity: differences in strabismus amblyopia?",
+            "generated": "yes\n\nQuestion: Is the Androgen Def"
+          },
+          {
+            "question": "Does ischemic preconditioning require reperfusion before index ischemia?",
+            "generated": "yes\n\nQuestion: Is there a risk of"
+          },
+          {
+            "question": "Can mass drug administration lead to the sustainable control of schistosomiasis?",
+            "generated": "yes\n\nQuestion: Is the Androgen Def"
+          },
+          {
+            "question": "Does delivery mode affect women's postpartum quality of life in rural China?",
+            "generated": "yes\n\nQuestion: Does delivery mode affect women"
+          },
+          {
+            "question": "Does birth center care during a woman's first pregnancy have any impact on her future reproduction?",
+            "generated": "yes\n\nQuestion: Is the risk of breast"
+          },
+          {
+            "question": "Can bone thickness and inter-radicular space affect miniscrew placement in posterior mandibular sites?",
+            "generated": "yes\n\nQuestion: Is the Androgen Def"
+          },
+          {
+            "question": "Do African American women require fewer calories to maintain weight?",
+            "generated": "yes\n\nQuestion: Do African American women require"
+          },
+          {
+            "question": "Is ganglionated plexi ablation during Maze IV procedure beneficial for postoperative long-term stable sinus rhythm?",
+            "generated": "yes\n\nQuestion: Is the Androgen Def"
+          }
+        ],
+        "maybe_to_yes": [
+          {
+            "question": "Rectal cancer threatening or affecting the prostatic plane: is partial prostatectomy oncologically adequate?",
+            "generated": "yes\n\nQuestion: Is the prostate cancer risk"
+          },
+          {
+            "question": "Are normally sighted, visually impaired, and blind pedestrians accurate and reliable at making street crossing decisions?",
+            "generated": "yes\n\nQuestion: Is the Androgen Def"
+          },
+          {
+            "question": "Are home sampling kits for sexually transmitted infections acceptable among men who have sex with men?",
+            "generated": "yes\n\nQuestion: Is home sampling kits for"
+          },
+          {
+            "question": "Does aerobic fitness influence microvascular function in healthy adults at risk of developing Type 2 diabetes?",
+            "generated": "yes\n\nQuestion: Does the Androgen Def"
+          },
+          {
+            "question": "Does limb-salvage surgery offer patients better quality of life and functional capacity than amputation?",
+            "generated": "Yes, yes, yes, yes, yes,"
+          },
+          {
+            "question": "Health care for immigrants in Europe: is there still consensus among country experts about principles of good practice?",
+            "generated": "Yes, of course.\n\nQuestion: Is"
+          },
+          {
+            "question": "Do emergency medical services professionals think they should participate in disease prevention?",
+            "generated": "Yes\n\nQuestion: Do emergency medical services professionals"
+          },
+          {
+            "question": "Does the familial transmission of drinking patterns persist into young adulthood?",
+            "generated": "yes\n\nQuestion: Does the risk of developing"
+          }
+        ],
+        "yes_to_no": [
+          {
+            "question": "Gender difference in survival of resected non-small cell lung cancer: histology-related phenomenon?",
+            "generated": "no\n\nQuestion: The role of the immune"
+          },
+          {
+            "question": "Orthostatic myoclonus: an underrecognized cause of unsteadiness?",
+            "generated": "no\n\nQuestion: Is the Androgen Def"
+          },
+          {
+            "question": "Are there risk factors that increase the rate of staple line leakage in patients undergoing primary sleeve gastrectomy for morbid obesity?",
+            "generated": "no\n\nQuestion: Is the risk of a"
+          },
+          {
+            "question": "Does patella position influence ligament balancing in total knee arthroplasty?",
+            "generated": "no\n\nQuestion: Does patella position"
+          },
+          {
+            "question": "School food policy at Dutch primary schools: room for improvement?",
+            "generated": "no\n\nQuestion: Is the Androgen Def"
+          },
+          {
+            "question": "Analysis of the epidemiological pattern of Shigellosis in Barcelona between 1988 and 2012: Is it an emerging sexually transmitted infection?",
+            "generated": "no\n\nQuestion: Is there a risk of"
+          },
+          {
+            "question": "Is pelvic pain associated with defecatory symptoms in women with pelvic organ prolapse?",
+            "generated": "no\n\nQuestion: Is the Androgen Def"
+          },
+          {
+            "question": "Cerebromediastinal tuberculosis in a child with a probable Say-Barber-Miller syndrome: a causative link?",
+            "generated": "no\n\nQuestion: A case of a child"
+          },
+          {
+            "question": "Quality of life in lung cancer patients: does socioeconomic status matter?",
+            "generated": "no\n\nQuestion: Is there a difference in"
+          },
+          {
+            "question": "Do microbiological factors account for poor pregnancy outcome among unmarried pregnant women in Poland?",
+            "generated": "no\n\nQuestion: Is the risk of B"
+          },
+          {
+            "question": "Is digoxin use for cardiovascular disease associated with risk of prostate cancer?",
+            "generated": "no\n\nQuestion: Is the use of dig"
+          },
+          {
+            "question": "Biomolecular identification of allergenic pollen: a new perspective for aerobiological monitoring?",
+            "generated": "no\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Hepatorenal syndrome: are we missing some prognostic factors?",
+            "generated": "no\n\nQuestion: Is there a difference in"
+          },
+          {
+            "question": "Is amoxapine an atypical antipsychotic?",
+            "generated": "no\n\nQuestion: Is amoxapine"
+          },
+          {
+            "question": "Injury and poisoning mortality among young men--are there any common factors amenable to prevention?",
+            "generated": "no\n\nQuestion: Is there a risk of"
+          },
+          {
+            "question": "Nutritional assessment of gluten-free diet. Is gluten-free diet deficient in some nutrient?",
+            "generated": "no\n\nQuestion: Is the gluten-free"
+          },
+          {
+            "question": "Are reports of mechanical dysfunction in chronic oro-facial pain related to somatisation?",
+            "generated": "no\n\nQuestion: Is there a relationship between"
+          },
+          {
+            "question": "Is specialty care associated with improved survival of patients with congestive heart failure?",
+            "generated": "no\n\nQuestion: Is the risk of CH"
+          }
+        ],
+        "yes_to_maybe": [
+          {
+            "question": "MiraLAX vs. Golytely: is there a significant difference in the adenoma detection rate?",
+            "generated": "MiraLAX is more effective than Mira"
+          }
+        ],
+        "maybe_to_no": [
+          {
+            "question": "Cutaneous melanoma in a multiethnic population: is this a different disease?",
+            "generated": "no\n\nQuestion: Is there a difference in"
+          },
+          {
+            "question": "Expression of c-kit protooncogen in hepatitis B virus-induced chronic hepatitis, cirrhosis and hepatocellular carcinoma: has it a diagnostic role?",
+            "generated": "no\n\nQuestion: Is the C-kit"
+          },
+          {
+            "question": "Young-Burgess classification of pelvic ring fractures: does it predict mortality, transfusion requirements, and non-orthopaedic injuries?",
+            "generated": "no\n\nQuestion: The effect of age on"
+          },
+          {
+            "question": "Is the international normalised ratio (INR) reliable?",
+            "generated": "no\n\nQuestion: Is the InR measurement"
+          }
+        ],
+        "no_to_maybe": [
+          {
+            "question": "Cold knife conization vs. LEEP. Are they the same procedure?",
+            "generated": "cold knife conization is a procedure that is performed"
+          }
+        ]
+      }
+    },
+    "2": {
+      "confusion_matrix": {
+        "yes": {
+          "yes": 50,
+          "no": 3
+        },
+        "no": {
+          "yes": 33,
+          "no": 2
+        },
+        "maybe": {
+          "yes": 10,
+          "no": 2
+        }
+      },
+      "error_examples": {
+        "no_to_yes": [
+          {
+            "question": "Are sports medicine journals relevant and applicable to practitioners and athletes?",
+            "generated": "yes\n\nQuestion: Is there a need for"
+          },
+          {
+            "question": "Is there awareness of pharmaceutical expenditure in the reformed primary care system?",
+            "generated": "yes\n\nQuestion: Is there a need for"
+          },
+          {
+            "question": "Spleen-preserving distal pancreatectomy with resection of the splenic vessels. Should one rely on the short gastric arteries?",
+            "generated": "yes\n\nQuestion: Spleen-pres"
+          },
+          {
+            "question": "Evaluation of pediatric VCUG at an academic children's hospital: is the radiographic scout image necessary?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Assessment of carotid artery stenosis before coronary artery bypass surgery. Is it always necessary?",
+            "generated": "yes\n\nQuestion: Is the risk of coronary"
+          },
+          {
+            "question": "Bony defects in chronic anterior posttraumatic dislocation of the shoulder: Is there a correlation between humeral and glenoidal lesions?",
+            "generated": "yes\n\nQuestion: Is there a relationship between"
+          },
+          {
+            "question": "Utility of unenhanced fat-suppressed T1-weighted MRI in children with sickle cell disease -- can it differentiate bone infarcts from acute osteomyelitis?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Birth characteristics and risk of low intellectual performance in early adulthood: are the associations confounded by socioeconomic factors in adolescence or familial effects?",
+            "generated": "yes\n\nQuestion: The effect of prenatal and"
+          },
+          {
+            "question": "Are WHO/UNAIDS/UNICEF-recommended replacement milks for infants of HIV-infected mothers appropriate in the South African context?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Is there an intrauterine influence on obesity?",
+            "generated": "yes\n\nQuestion: Is there a relationship between"
+          },
+          {
+            "question": "Does immediate breast reconstruction compromise the delivery of adjuvant chemotherapy?",
+            "generated": "yes\n\nQuestion: Does the use of adj"
+          },
+          {
+            "question": "Cold knife conization vs. LEEP. Are they the same procedure?",
+            "generated": "yes\n\nQuestion: Is the LEEP procedure"
+          },
+          {
+            "question": "Is ankle/arm pressure predictive for cardiovascular mortality in older patients living in nursing homes?",
+            "generated": "yes\n\nQuestion: Is the risk of cardiovascular"
+          },
+          {
+            "question": "Chronic functional somatic symptoms: a single syndrome?",
+            "generated": "yes\n\nQuestion: Chronic functional somatic symptoms"
+          },
+          {
+            "question": "Does confined placental mosaicism account for adverse perinatal outcomes in IVF pregnancies?",
+            "generated": "yes\n\nQuestion: Does the presence of a"
+          },
+          {
+            "question": "Are serum leptin levels a prognostic factor in advanced lung cancer?",
+            "generated": "yes\n\nQuestion: Is the risk of developing"
+          },
+          {
+            "question": "Perioperative care in an animal model for training in abdominal surgery: is it necessary a preoperative fasting?",
+            "generated": "yes\n\nQuestion: Is there a need for"
+          },
+          {
+            "question": "Screening History Among Women with Invasive Cervical Cancer in an Academic Medical Center: Will We Miss Cancers Following Updated Guidelines?",
+            "generated": "yes\n\nQuestion: Is Papanicola"
+          },
+          {
+            "question": "Do patients with localized prostate cancer treatment really want more aggressive treatment?",
+            "generated": "yes\n\nQuestion: Do patients with prostate cancer"
+          },
+          {
+            "question": "Do lipids, blood pressure, diabetes, and smoking confer equal risk of myocardial infarction in women as in men?",
+            "generated": "yes\n\nQuestion: Is the risk of coronary"
+          },
+          {
+            "question": "Can vaginal pH be measured from the wet mount slide?",
+            "generated": "yes\n\nQuestion: Is the vaginal pH of"
+          },
+          {
+            "question": "Do risk calculators accurately predict surgical site\u00a0occurrences?",
+            "generated": "yes\n\nQuestion: Is the risk calculator accurate"
+          },
+          {
+            "question": "Do prerecorded lecture VODcasts affect lecture attendance of first-yearpre-clinical Graduate Entry to Medicine students?",
+            "generated": "yes\n\nQuestion: Does the provision of pre"
+          },
+          {
+            "question": "Does context matter for the relationship between deprivation and all-cause mortality?",
+            "generated": "yes\n\nQuestion: Is the relationship between deprivation"
+          },
+          {
+            "question": "Landolt C and snellen e acuity: differences in strabismus amblyopia?",
+            "generated": "yes\n\nQuestion: Is the Androgen Def"
+          },
+          {
+            "question": "Does ischemic preconditioning require reperfusion before index ischemia?",
+            "generated": "yes\n\nQuestion: Is there a difference in"
+          },
+          {
+            "question": "Do women with ovaries of polycystic morphology without any other features of PCOS benefit from short-term metformin co-treatment during IVF?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Can mass drug administration lead to the sustainable control of schistosomiasis?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Does delivery mode affect women's postpartum quality of life in rural China?",
+            "generated": "yes\n\nQuestion: Does delivery mode affect women"
+          },
+          {
+            "question": "Does birth center care during a woman's first pregnancy have any impact on her future reproduction?",
+            "generated": "yes\n\nQuestion: Does the birth center care"
+          },
+          {
+            "question": "Can bone thickness and inter-radicular space affect miniscrew placement in posterior mandibular sites?",
+            "generated": "yes\n\nQuestion: Is the anterior and posterior"
+          },
+          {
+            "question": "Do African American women require fewer calories to maintain weight?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Is ganglionated plexi ablation during Maze IV procedure beneficial for postoperative long-term stable sinus rhythm?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          }
+        ],
+        "maybe_to_yes": [
+          {
+            "question": "Rectal cancer threatening or affecting the prostatic plane: is partial prostatectomy oncologically adequate?",
+            "generated": "yes\n\nQuestion: Is the prostate cancer risk"
+          },
+          {
+            "question": "Are normally sighted, visually impaired, and blind pedestrians accurate and reliable at making street crossing decisions?",
+            "generated": "yes\n\nQuestion: Is the ability to see"
+          },
+          {
+            "question": "Cutaneous melanoma in a multiethnic population: is this a different disease?",
+            "generated": "yes\n\nQuestion: Is there a difference in"
+          },
+          {
+            "question": "Are home sampling kits for sexually transmitted infections acceptable among men who have sex with men?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Does aerobic fitness influence microvascular function in healthy adults at risk of developing Type 2 diabetes?",
+            "generated": "yes\n\nQuestion: Does exercise increase the risk"
+          },
+          {
+            "question": "Does limb-salvage surgery offer patients better quality of life and functional capacity than amputation?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Young-Burgess classification of pelvic ring fractures: does it predict mortality, transfusion requirements, and non-orthopaedic injuries?",
+            "generated": "yes\n\nQuestion: Is the risk of pelvic"
+          },
+          {
+            "question": "Is the international normalised ratio (INR) reliable?",
+            "generated": "yes\n\nQuestion: Is the INR of"
+          },
+          {
+            "question": "Health care for immigrants in Europe: is there still consensus among country experts about principles of good practice?",
+            "generated": "yes\n\nQuestion: Is the use of the"
+          },
+          {
+            "question": "Does the familial transmission of drinking patterns persist into young adulthood?",
+            "generated": "yes\n\nQuestion: Is the risk of developing"
+          }
+        ],
+        "yes_to_no": [
+          {
+            "question": "Does patella position influence ligament balancing in total knee arthroplasty?",
+            "generated": "no\n\nQuestion: Does the Patella"
+          },
+          {
+            "question": "Quality of life in lung cancer patients: does socioeconomic status matter?",
+            "generated": "no\n\nQuestion: Is there a relationship between"
+          },
+          {
+            "question": "Injury and poisoning mortality among young men--are there any common factors amenable to prevention?",
+            "generated": "no\n\nQuestion: The prevalence of depression among"
+          }
+        ],
+        "maybe_to_no": [
+          {
+            "question": "Expression of c-kit protooncogen in hepatitis B virus-induced chronic hepatitis, cirrhosis and hepatocellular carcinoma: has it a diagnostic role?",
+            "generated": "no\n\nQuestion: Is the C-kit"
+          },
+          {
+            "question": "Do emergency medical services professionals think they should participate in disease prevention?",
+            "generated": "no\n\nQuestion: Do EMS professionals think they"
+          }
+        ]
+      }
+    },
+    "5": {
+      "confusion_matrix": {
+        "yes": {
+          "yes": 53
+        },
+        "no": {
+          "yes": 35
+        },
+        "maybe": {
+          "yes": 12
+        }
+      },
+      "error_examples": {
+        "no_to_yes": [
+          {
+            "question": "Are sports medicine journals relevant and applicable to practitioners and athletes?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Is there awareness of pharmaceutical expenditure in the reformed primary care system?",
+            "generated": "yes\n\nQuestion: Is there a need for"
+          },
+          {
+            "question": "Spleen-preserving distal pancreatectomy with resection of the splenic vessels. Should one rely on the short gastric arteries?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Evaluation of pediatric VCUG at an academic children's hospital: is the radiographic scout image necessary?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Assessment of carotid artery stenosis before coronary artery bypass surgery. Is it always necessary?",
+            "generated": "yes\n\nQuestion: Is the risk of stroke"
+          },
+          {
+            "question": "Bony defects in chronic anterior posttraumatic dislocation of the shoulder: Is there a correlation between humeral and glenoidal lesions?",
+            "generated": "yes\n\nQuestion: Is the postpartum"
+          },
+          {
+            "question": "Utility of unenhanced fat-suppressed T1-weighted MRI in children with sickle cell disease -- can it differentiate bone infarcts from acute osteomyelitis?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Birth characteristics and risk of low intellectual performance in early adulthood: are the associations confounded by socioeconomic factors in adolescence or familial effects?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Are WHO/UNAIDS/UNICEF-recommended replacement milks for infants of HIV-infected mothers appropriate in the South African context?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Is there an intrauterine influence on obesity?",
+            "generated": "yes\n\nQuestion: Is there a relationship between"
+          },
+          {
+            "question": "Fatigue in primary Sj\u00f6gren's syndrome: is there a link with the fibromyalgia syndrome?",
+            "generated": "yes\n\nQuestion: Is the risk of FM"
+          },
+          {
+            "question": "Does immediate breast reconstruction compromise the delivery of adjuvant chemotherapy?",
+            "generated": "yes\n\nQuestion: Does postpartum depression"
+          },
+          {
+            "question": "Cold knife conization vs. LEEP. Are they the same procedure?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Is ankle/arm pressure predictive for cardiovascular mortality in older patients living in nursing homes?",
+            "generated": "yes\n\nQuestion: Is the risk of cardiovascular"
+          },
+          {
+            "question": "Chronic functional somatic symptoms: a single syndrome?",
+            "generated": "yes\n\nQuestion: Does postpartum depression"
+          },
+          {
+            "question": "Does confined placental mosaicism account for adverse perinatal outcomes in IVF pregnancies?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Are serum leptin levels a prognostic factor in advanced lung cancer?",
+            "generated": "yes\n\nQuestion: Is the risk of developing"
+          },
+          {
+            "question": "Perioperative care in an animal model for training in abdominal surgery: is it necessary a preoperative fasting?",
+            "generated": "yes\n\nQuestion: Does preoperative care for"
+          },
+          {
+            "question": "Screening History Among Women with Invasive Cervical Cancer in an Academic Medical Center: Will We Miss Cancers Following Updated Guidelines?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Do patients with localized prostate cancer treatment really want more aggressive treatment?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Do lipids, blood pressure, diabetes, and smoking confer equal risk of myocardial infarction in women as in men?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Does the use of atypical antipsychotics as adjunctive therapy in depression result in cost savings?",
+            "generated": "yes\n\nQuestion: Does the use of antip"
+          },
+          {
+            "question": "Can vaginal pH be measured from the wet mount slide?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Do risk calculators accurately predict surgical site\u00a0occurrences?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Do prerecorded lecture VODcasts affect lecture attendance of first-yearpre-clinical Graduate Entry to Medicine students?",
+            "generated": "yes\n\nQuestion: Does prerecorded lecture V"
+          },
+          {
+            "question": "Does context matter for the relationship between deprivation and all-cause mortality?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Landolt C and snellen e acuity: differences in strabismus amblyopia?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Does ischemic preconditioning require reperfusion before index ischemia?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Do women with ovaries of polycystic morphology without any other features of PCOS benefit from short-term metformin co-treatment during IVF?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Can mass drug administration lead to the sustainable control of schistosomiasis?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Does delivery mode affect women's postpartum quality of life in rural China?",
+            "generated": "yes\n\nQuestion: Does postpartum depression"
+          },
+          {
+            "question": "Does birth center care during a woman's first pregnancy have any impact on her future reproduction?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Can bone thickness and inter-radicular space affect miniscrew placement in posterior mandibular sites?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Do African American women require fewer calories to maintain weight?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Is ganglionated plexi ablation during Maze IV procedure beneficial for postoperative long-term stable sinus rhythm?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          }
+        ],
+        "maybe_to_yes": [
+          {
+            "question": "Rectal cancer threatening or affecting the prostatic plane: is partial prostatectomy oncologically adequate?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Are normally sighted, visually impaired, and blind pedestrians accurate and reliable at making street crossing decisions?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Cutaneous melanoma in a multiethnic population: is this a different disease?",
+            "generated": "yes\n\nQuestion: Is the risk of melan"
+          },
+          {
+            "question": "Expression of c-kit protooncogen in hepatitis B virus-induced chronic hepatitis, cirrhosis and hepatocellular carcinoma: has it a diagnostic role?",
+            "generated": "yes\n\nQuestion: Is the presence of a"
+          },
+          {
+            "question": "Are home sampling kits for sexually transmitted infections acceptable among men who have sex with men?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Does aerobic fitness influence microvascular function in healthy adults at risk of developing Type 2 diabetes?",
+            "generated": "yes\n\nQuestion: Does exercise increase the risk"
+          },
+          {
+            "question": "Does limb-salvage surgery offer patients better quality of life and functional capacity than amputation?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Young-Burgess classification of pelvic ring fractures: does it predict mortality, transfusion requirements, and non-orthopaedic injuries?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Is the international normalised ratio (INR) reliable?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Health care for immigrants in Europe: is there still consensus among country experts about principles of good practice?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Do emergency medical services professionals think they should participate in disease prevention?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Does the familial transmission of drinking patterns persist into young adulthood?",
+            "generated": "yes\n\nQuestion: Does the risk of developing"
+          }
+        ]
+      }
+    },
+    "10": {
+      "confusion_matrix": {
+        "yes": {
+          "yes": 53
+        },
+        "no": {
+          "yes": 35
+        },
+        "maybe": {
+          "yes": 12
+        }
+      },
+      "error_examples": {
+        "no_to_yes": [
+          {
+            "question": "Are sports medicine journals relevant and applicable to practitioners and athletes?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Is there awareness of pharmaceutical expenditure in the reformed primary care system?",
+            "generated": "yes\n\nQuestion: Is there a risk of"
+          },
+          {
+            "question": "Spleen-preserving distal pancreatectomy with resection of the splenic vessels. Should one rely on the short gastric arteries?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Evaluation of pediatric VCUG at an academic children's hospital: is the radiographic scout image necessary?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Assessment of carotid artery stenosis before coronary artery bypass surgery. Is it always necessary?",
+            "generated": "yes\n\nQuestion: Is the risk of coronary"
+          },
+          {
+            "question": "Bony defects in chronic anterior posttraumatic dislocation of the shoulder: Is there a correlation between humeral and glenoidal lesions?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Utility of unenhanced fat-suppressed T1-weighted MRI in children with sickle cell disease -- can it differentiate bone infarcts from acute osteomyelitis?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Birth characteristics and risk of low intellectual performance in early adulthood: are the associations confounded by socioeconomic factors in adolescence or familial effects?",
+            "generated": "yes\n\nQuestion: Is the risk of low"
+          },
+          {
+            "question": "Are WHO/UNAIDS/UNICEF-recommended replacement milks for infants of HIV-infected mothers appropriate in the South African context?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Is there an intrauterine influence on obesity?",
+            "generated": "yes\n\nQuestion: Is there a relationship between"
+          },
+          {
+            "question": "Fatigue in primary Sj\u00f6gren's syndrome: is there a link with the fibromyalgia syndrome?",
+            "generated": "yes\n\nQuestion: Is the risk of developing"
+          },
+          {
+            "question": "Does immediate breast reconstruction compromise the delivery of adjuvant chemotherapy?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Cold knife conization vs. LEEP. Are they the same procedure?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Is ankle/arm pressure predictive for cardiovascular mortality in older patients living in nursing homes?",
+            "generated": "yes\n\nQuestion: Is the risk of heart"
+          },
+          {
+            "question": "Chronic functional somatic symptoms: a single syndrome?",
+            "generated": "yes\n\nQuestion: Is the risk of cardiovascular"
+          },
+          {
+            "question": "Does confined placental mosaicism account for adverse perinatal outcomes in IVF pregnancies?",
+            "generated": "yes\n\nQuestion: Is the risk of developing"
+          },
+          {
+            "question": "Are serum leptin levels a prognostic factor in advanced lung cancer?",
+            "generated": "yes\n\nQuestion: Is the risk of developing"
+          },
+          {
+            "question": "Perioperative care in an animal model for training in abdominal surgery: is it necessary a preoperative fasting?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Screening History Among Women with Invasive Cervical Cancer in an Academic Medical Center: Will We Miss Cancers Following Updated Guidelines?",
+            "generated": "yes\n\nQuestion: Is Papanicola"
+          },
+          {
+            "question": "Do patients with localized prostate cancer treatment really want more aggressive treatment?",
+            "generated": "yes\n\nQuestion: Is the risk of prostate"
+          },
+          {
+            "question": "Do lipids, blood pressure, diabetes, and smoking confer equal risk of myocardial infarction in women as in men?",
+            "generated": "yes\n\nQuestion: Is the risk of coronary"
+          },
+          {
+            "question": "Does the use of atypical antipsychotics as adjunctive therapy in depression result in cost savings?",
+            "generated": "yes\n\nQuestion: Does the use of antidepressants"
+          },
+          {
+            "question": "Can vaginal pH be measured from the wet mount slide?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Do risk calculators accurately predict surgical site\u00a0occurrences?",
+            "generated": "yes\n\nQuestion: Is the risk of a"
+          },
+          {
+            "question": "Do prerecorded lecture VODcasts affect lecture attendance of first-yearpre-clinical Graduate Entry to Medicine students?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Does context matter for the relationship between deprivation and all-cause mortality?",
+            "generated": "yes\n\nQuestion: Is the risk of heart"
+          },
+          {
+            "question": "Landolt C and snellen e acuity: differences in strabismus amblyopia?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Does ischemic preconditioning require reperfusion before index ischemia?",
+            "generated": "yes\n\nQuestion: Is there a risk of"
+          },
+          {
+            "question": "Do women with ovaries of polycystic morphology without any other features of PCOS benefit from short-term metformin co-treatment during IVF?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Can mass drug administration lead to the sustainable control of schistosomiasis?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Does delivery mode affect women's postpartum quality of life in rural China?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Does birth center care during a woman's first pregnancy have any impact on her future reproduction?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Can bone thickness and inter-radicular space affect miniscrew placement in posterior mandibular sites?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Do African American women require fewer calories to maintain weight?",
+            "generated": "yes\n\nQuestion: Is the risk of diabetes"
+          },
+          {
+            "question": "Is ganglionated plexi ablation during Maze IV procedure beneficial for postoperative long-term stable sinus rhythm?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          }
+        ],
+        "maybe_to_yes": [
+          {
+            "question": "Rectal cancer threatening or affecting the prostatic plane: is partial prostatectomy oncologically adequate?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Are normally sighted, visually impaired, and blind pedestrians accurate and reliable at making street crossing decisions?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Cutaneous melanoma in a multiethnic population: is this a different disease?",
+            "generated": "yes\n\nQuestion: Is the risk of melan"
+          },
+          {
+            "question": "Expression of c-kit protooncogen in hepatitis B virus-induced chronic hepatitis, cirrhosis and hepatocellular carcinoma: has it a diagnostic role?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Are home sampling kits for sexually transmitted infections acceptable among men who have sex with men?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Does aerobic fitness influence microvascular function in healthy adults at risk of developing Type 2 diabetes?",
+            "generated": "yes\n\nQuestion: Does exercise reduce the risk"
+          },
+          {
+            "question": "Does limb-salvage surgery offer patients better quality of life and functional capacity than amputation?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Young-Burgess classification of pelvic ring fractures: does it predict mortality, transfusion requirements, and non-orthopaedic injuries?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Is the international normalised ratio (INR) reliable?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Health care for immigrants in Europe: is there still consensus among country experts about principles of good practice?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Do emergency medical services professionals think they should participate in disease prevention?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Does the familial transmission of drinking patterns persist into young adulthood?",
+            "generated": "yes\n\nQuestion: Is the risk of developing"
+          }
+        ]
+      }
+    },
+    "15": {
+      "confusion_matrix": {
+        "yes": {
+          "yes": 53
+        },
+        "no": {
+          "yes": 35
+        },
+        "maybe": {
+          "yes": 12
+        }
+      },
+      "error_examples": {
+        "no_to_yes": [
+          {
+            "question": "Are sports medicine journals relevant and applicable to practitioners and athletes?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Is there awareness of pharmaceutical expenditure in the reformed primary care system?",
+            "generated": "yes\n\nQuestion: Is there a risk of"
+          },
+          {
+            "question": "Spleen-preserving distal pancreatectomy with resection of the splenic vessels. Should one rely on the short gastric arteries?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Evaluation of pediatric VCUG at an academic children's hospital: is the radiographic scout image necessary?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Assessment of carotid artery stenosis before coronary artery bypass surgery. Is it always necessary?",
+            "generated": "yes\n\nQuestion: Is the risk of coronary"
+          },
+          {
+            "question": "Bony defects in chronic anterior posttraumatic dislocation of the shoulder: Is there a correlation between humeral and glenoidal lesions?",
+            "generated": "yes\n\nQuestion: Is the risk of post"
+          },
+          {
+            "question": "Utility of unenhanced fat-suppressed T1-weighted MRI in children with sickle cell disease -- can it differentiate bone infarcts from acute osteomyelitis?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Birth characteristics and risk of low intellectual performance in early adulthood: are the associations confounded by socioeconomic factors in adolescence or familial effects?",
+            "generated": "yes\n\nQuestion: Is the risk of developing"
+          },
+          {
+            "question": "Are WHO/UNAIDS/UNICEF-recommended replacement milks for infants of HIV-infected mothers appropriate in the South African context?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Is there an intrauterine influence on obesity?",
+            "generated": "yes\n\nQuestion: Is there a relationship between"
+          },
+          {
+            "question": "Fatigue in primary Sj\u00f6gren's syndrome: is there a link with the fibromyalgia syndrome?",
+            "generated": "yes\n\nQuestion: Is the risk of developing"
+          },
+          {
+            "question": "Does immediate breast reconstruction compromise the delivery of adjuvant chemotherapy?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Cold knife conization vs. LEEP. Are they the same procedure?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Is ankle/arm pressure predictive for cardiovascular mortality in older patients living in nursing homes?",
+            "generated": "yes\n\nQuestion: Is the risk of heart"
+          },
+          {
+            "question": "Chronic functional somatic symptoms: a single syndrome?",
+            "generated": "yes\n\nQuestion: Is the risk of cardiovascular"
+          },
+          {
+            "question": "Does confined placental mosaicism account for adverse perinatal outcomes in IVF pregnancies?",
+            "generated": "yes\n\nQuestion: Is the risk of spontaneous"
+          },
+          {
+            "question": "Are serum leptin levels a prognostic factor in advanced lung cancer?",
+            "generated": "yes\n\nQuestion: Is the risk of developing"
+          },
+          {
+            "question": "Perioperative care in an animal model for training in abdominal surgery: is it necessary a preoperative fasting?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Screening History Among Women with Invasive Cervical Cancer in an Academic Medical Center: Will We Miss Cancers Following Updated Guidelines?",
+            "generated": "yes\n\nQuestion: Is Papanicola"
+          },
+          {
+            "question": "Do patients with localized prostate cancer treatment really want more aggressive treatment?",
+            "generated": "yes\n\nQuestion: Is the risk of prostate"
+          },
+          {
+            "question": "Do lipids, blood pressure, diabetes, and smoking confer equal risk of myocardial infarction in women as in men?",
+            "generated": "yes\n\nQuestion: Is the risk of coronary"
+          },
+          {
+            "question": "Does the use of atypical antipsychotics as adjunctive therapy in depression result in cost savings?",
+            "generated": "yes\n\nQuestion: Is the use of antidepressants"
+          },
+          {
+            "question": "Can vaginal pH be measured from the wet mount slide?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Do risk calculators accurately predict surgical site\u00a0occurrences?",
+            "generated": "yes\n\nQuestion: Is the risk of a"
+          },
+          {
+            "question": "Do prerecorded lecture VODcasts affect lecture attendance of first-yearpre-clinical Graduate Entry to Medicine students?",
+            "generated": "yes\n\nQuestion: Is prerecorded lecture V"
+          },
+          {
+            "question": "Does context matter for the relationship between deprivation and all-cause mortality?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Landolt C and snellen e acuity: differences in strabismus amblyopia?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Does ischemic preconditioning require reperfusion before index ischemia?",
+            "generated": "yes\n\nQuestion: Is there a risk of"
+          },
+          {
+            "question": "Do women with ovaries of polycystic morphology without any other features of PCOS benefit from short-term metformin co-treatment during IVF?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Can mass drug administration lead to the sustainable control of schistosomiasis?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Does delivery mode affect women's postpartum quality of life in rural China?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Does birth center care during a woman's first pregnancy have any impact on her future reproduction?",
+            "generated": "yes\n\nQuestion: Is the risk of developing"
+          },
+          {
+            "question": "Can bone thickness and inter-radicular space affect miniscrew placement in posterior mandibular sites?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Do African American women require fewer calories to maintain weight?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Is ganglionated plexi ablation during Maze IV procedure beneficial for postoperative long-term stable sinus rhythm?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          }
+        ],
+        "maybe_to_yes": [
+          {
+            "question": "Rectal cancer threatening or affecting the prostatic plane: is partial prostatectomy oncologically adequate?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Are normally sighted, visually impaired, and blind pedestrians accurate and reliable at making street crossing decisions?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Cutaneous melanoma in a multiethnic population: is this a different disease?",
+            "generated": "yes\n\nQuestion: Is the risk of melan"
+          },
+          {
+            "question": "Expression of c-kit protooncogen in hepatitis B virus-induced chronic hepatitis, cirrhosis and hepatocellular carcinoma: has it a diagnostic role?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Are home sampling kits for sexually transmitted infections acceptable among men who have sex with men?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Does aerobic fitness influence microvascular function in healthy adults at risk of developing Type 2 diabetes?",
+            "generated": "yes\n\nQuestion: Does exercise reduce the risk"
+          },
+          {
+            "question": "Does limb-salvage surgery offer patients better quality of life and functional capacity than amputation?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Young-Burgess classification of pelvic ring fractures: does it predict mortality, transfusion requirements, and non-orthopaedic injuries?",
+            "generated": "yes\n\nQuestion: Is the risk of developing"
+          },
+          {
+            "question": "Is the international normalised ratio (INR) reliable?",
+            "generated": "yes\n\nQuestion: Is the risk of developing"
+          },
+          {
+            "question": "Health care for immigrants in Europe: is there still consensus among country experts about principles of good practice?",
+            "generated": "yes\n\nQuestion: Is there a need for"
+          },
+          {
+            "question": "Do emergency medical services professionals think they should participate in disease prevention?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Does the familial transmission of drinking patterns persist into young adulthood?",
+            "generated": "yes\n\nQuestion: Is the risk of developing"
+          }
+        ]
+      }
+    },
+    "20": {
+      "confusion_matrix": {
+        "yes": {
+          "yes": 53
+        },
+        "no": {
+          "yes": 35
+        },
+        "maybe": {
+          "yes": 12
+        }
+      },
+      "error_examples": {
+        "no_to_yes": [
+          {
+            "question": "Are sports medicine journals relevant and applicable to practitioners and athletes?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Is there awareness of pharmaceutical expenditure in the reformed primary care system?",
+            "generated": "yes\n\nQuestion: Is there a relationship between"
+          },
+          {
+            "question": "Spleen-preserving distal pancreatectomy with resection of the splenic vessels. Should one rely on the short gastric arteries?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Evaluation of pediatric VCUG at an academic children's hospital: is the radiographic scout image necessary?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Assessment of carotid artery stenosis before coronary artery bypass surgery. Is it always necessary?",
+            "generated": "yes\n\nQuestion: Is the risk of coronary"
+          },
+          {
+            "question": "Bony defects in chronic anterior posttraumatic dislocation of the shoulder: Is there a correlation between humeral and glenoidal lesions?",
+            "generated": "yes\n\nQuestion: Is the risk of chronic"
+          },
+          {
+            "question": "Utility of unenhanced fat-suppressed T1-weighted MRI in children with sickle cell disease -- can it differentiate bone infarcts from acute osteomyelitis?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Birth characteristics and risk of low intellectual performance in early adulthood: are the associations confounded by socioeconomic factors in adolescence or familial effects?",
+            "generated": "yes\n\nQuestion: Is the risk of early"
+          },
+          {
+            "question": "Are WHO/UNAIDS/UNICEF-recommended replacement milks for infants of HIV-infected mothers appropriate in the South African context?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Is there an intrauterine influence on obesity?",
+            "generated": "yes\n\nQuestion: Is there a relationship between"
+          },
+          {
+            "question": "Fatigue in primary Sj\u00f6gren's syndrome: is there a link with the fibromyalgia syndrome?",
+            "generated": "yes\n\nQuestion: Is the risk of developing"
+          },
+          {
+            "question": "Does immediate breast reconstruction compromise the delivery of adjuvant chemotherapy?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Cold knife conization vs. LEEP. Are they the same procedure?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Is ankle/arm pressure predictive for cardiovascular mortality in older patients living in nursing homes?",
+            "generated": "yes\n\nQuestion: Is the risk of heart"
+          },
+          {
+            "question": "Chronic functional somatic symptoms: a single syndrome?",
+            "generated": "yes\n\nQuestion: Is the risk of heart"
+          },
+          {
+            "question": "Does confined placental mosaicism account for adverse perinatal outcomes in IVF pregnancies?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Are serum leptin levels a prognostic factor in advanced lung cancer?",
+            "generated": "yes\n\nQuestion: Is the risk of developing"
+          },
+          {
+            "question": "Perioperative care in an animal model for training in abdominal surgery: is it necessary a preoperative fasting?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Screening History Among Women with Invasive Cervical Cancer in an Academic Medical Center: Will We Miss Cancers Following Updated Guidelines?",
+            "generated": "yes\n\nQuestion: Is the risk of cervical"
+          },
+          {
+            "question": "Do patients with localized prostate cancer treatment really want more aggressive treatment?",
+            "generated": "yes\n\nQuestion: Is the risk of prostate"
+          },
+          {
+            "question": "Do lipids, blood pressure, diabetes, and smoking confer equal risk of myocardial infarction in women as in men?",
+            "generated": "yes\n\nQuestion: Is the risk of heart"
+          },
+          {
+            "question": "Does the use of atypical antipsychotics as adjunctive therapy in depression result in cost savings?",
+            "generated": "yes\n\nQuestion: Does the use of antidepressants"
+          },
+          {
+            "question": "Can vaginal pH be measured from the wet mount slide?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Do risk calculators accurately predict surgical site\u00a0occurrences?",
+            "generated": "yes\n\nQuestion: Is the risk of a"
+          },
+          {
+            "question": "Do prerecorded lecture VODcasts affect lecture attendance of first-yearpre-clinical Graduate Entry to Medicine students?",
+            "generated": "yes\n\nQuestion: Does prerecorded lecture V"
+          },
+          {
+            "question": "Does context matter for the relationship between deprivation and all-cause mortality?",
+            "generated": "yes\n\nQuestion: Does the use of a"
+          },
+          {
+            "question": "Landolt C and snellen e acuity: differences in strabismus amblyopia?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Does ischemic preconditioning require reperfusion before index ischemia?",
+            "generated": "yes\n\nQuestion: Is there a risk of"
+          },
+          {
+            "question": "Do women with ovaries of polycystic morphology without any other features of PCOS benefit from short-term metformin co-treatment during IVF?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Can mass drug administration lead to the sustainable control of schistosomiasis?",
+            "generated": "yes\n\nQuestion: Is the risk of developing"
+          },
+          {
+            "question": "Does delivery mode affect women's postpartum quality of life in rural China?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Does birth center care during a woman's first pregnancy have any impact on her future reproduction?",
+            "generated": "yes\n\nQuestion: Is the risk of breast"
+          },
+          {
+            "question": "Can bone thickness and inter-radicular space affect miniscrew placement in posterior mandibular sites?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Do African American women require fewer calories to maintain weight?",
+            "generated": "yes\n\nQuestion: Is the risk of diabetes"
+          },
+          {
+            "question": "Is ganglionated plexi ablation during Maze IV procedure beneficial for postoperative long-term stable sinus rhythm?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          }
+        ],
+        "maybe_to_yes": [
+          {
+            "question": "Rectal cancer threatening or affecting the prostatic plane: is partial prostatectomy oncologically adequate?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Are normally sighted, visually impaired, and blind pedestrians accurate and reliable at making street crossing decisions?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Cutaneous melanoma in a multiethnic population: is this a different disease?",
+            "generated": "yes\n\nQuestion: Is the risk of melan"
+          },
+          {
+            "question": "Expression of c-kit protooncogen in hepatitis B virus-induced chronic hepatitis, cirrhosis and hepatocellular carcinoma: has it a diagnostic role?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Are home sampling kits for sexually transmitted infections acceptable among men who have sex with men?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Does aerobic fitness influence microvascular function in healthy adults at risk of developing Type 2 diabetes?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Does limb-salvage surgery offer patients better quality of life and functional capacity than amputation?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Young-Burgess classification of pelvic ring fractures: does it predict mortality, transfusion requirements, and non-orthopaedic injuries?",
+            "generated": "yes\n\nQuestion: Is the risk of developing"
+          },
+          {
+            "question": "Is the international normalised ratio (INR) reliable?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Health care for immigrants in Europe: is there still consensus among country experts about principles of good practice?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Do emergency medical services professionals think they should participate in disease prevention?",
+            "generated": "yes\n\nQuestion: Is the use of a"
+          },
+          {
+            "question": "Does the familial transmission of drinking patterns persist into young adulthood?",
+            "generated": "yes\n\nQuestion: Is the risk of developing"
+          }
+        ]
+      }
+    }
+  },
+  "summary_stats": {
+    "best_performance": {
+      "shots": 5,
+      "accuracy": 0.53
+    },
+    "baseline_accuracy": 0.15,
+    "max_improvement": 0.38
+  }
+}

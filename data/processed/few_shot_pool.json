@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Does timing of initial surfactant treatment make a difference in rates of chronic lung disease or mortality in premature infants?",
+    "abstract": "To compare two treatment strategies in preterm infants with or at risk of respiratory distress syndrome: early surfactant administration (within one hour of birth) versus late surfactant administration, in a geographically defined population.",
+    "answer": "maybe",
+    "formatted_prompt": "Question: Does timing of initial surfactant treatment make a difference in rates of chronic lung disease or mortality in premature infants?\nAbstract: To compare two treatment strategies in preterm infants with or at risk of respiratory distress syndrome: early surfactant administration (within one hour of birth) versus late surfactant administration, in a geographically defined population.\nAnswer: maybe"
+  },
+  {
+    "question": "Does elective re-siting of intravenous cannulae decrease peripheral thrombophlebitis?",
+    "abstract": "Peripheral venous thrombophlebitis (PVT) is a common complication of intravenous cannulation, occurring in about 30% of patients. We evaluated the effect of elective re-siting of intravenous cannulae every 48 hours on the incidence and severity of PVT in patients receiving intravenous fluids/drugs.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Does elective re-siting of intravenous cannulae decrease peripheral thrombophlebitis?\nAbstract: Peripheral venous thrombophlebitis (PVT) is a common complication of intravenous cannulation, occurring in about 30% of patients. We evaluated the effect of elective re-siting of intravenous cannulae every 48 hours on the incidence and severity of PVT in patients receiving intravenous fluids/drugs.\nAnswer: yes"
+  },
+  {
+    "question": "Does sex affect the outcome of laparoscopic cholecystectomy?",
+    "abstract": "The aim of our study was to determine the effect of sex on the outcome of laparoscopic cholecystectomy in terms of operative time, conversion to open cholecystectomy, postoperative complications and mean hospital stay.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Does sex affect the outcome of laparoscopic cholecystectomy?\nAbstract: The aim of our study was to determine the effect of sex on the outcome of laparoscopic cholecystectomy in terms of operative time, conversion to open cholecystectomy, postoperative complications and mean hospital stay.\nAnswer: yes"
+  },
+  {
+    "question": "Is routine dissection of the station 9 lymph nodes really necessary for primary lung cancer?",
+    "abstract": "Mediastinal lymph node dissection is an essential component of lung cancer surgery; however, choosing mediastinal lymph nodes stations to be dissected is subjective. We carried out this research to investigate the need for dissection of station 9 lymph nodes during lung cancer surgery.",
+    "answer": "no",
+    "formatted_prompt": "Question: Is routine dissection of the station 9 lymph nodes really necessary for primary lung cancer?\nAbstract: Mediastinal lymph node dissection is an essential component of lung cancer surgery; however, choosing mediastinal lymph nodes stations to be dissected is subjective. We carried out this research to investigate the need for dissection of station 9 lymph nodes during lung cancer surgery.\nAnswer: no"
+  },
+  {
+    "question": "Chemical shift MRI: is there any contribution to morphologic evaluation of solid breast masses?",
+    "abstract": "To investigate the contribution of chemical shift magnetic resonance imaging for assessment of the margins of solid breast masses by benefiting from India ink artifact.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Chemical shift MRI: is there any contribution to morphologic evaluation of solid breast masses?\nAbstract: To investigate the contribution of chemical shift magnetic resonance imaging for assessment of the margins of solid breast masses by benefiting from India ink artifact.\nAnswer: yes"
+  },
+  {
+    "question": "Are increased carotid artery pulsatility and resistance indexes early signs of vascular abnormalities in young obese males?",
+    "abstract": "To provide insight into the factors by which obesity in itself may directly lead to early arterial damage, we aimed to determine early sonographic markers of obesity-related vascular dysfunction in young obese males.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Are increased carotid artery pulsatility and resistance indexes early signs of vascular abnormalities in young obese males?\nAbstract: To provide insight into the factors by which obesity in itself may directly lead to early arterial damage, we aimed to determine early sonographic markers of obesity-related vascular dysfunction in young obese males.\nAnswer: yes"
+  },
+  {
+    "question": "Fast foods - are they a risk factor for asthma?",
+    "abstract": "Lifestyle changes over the last 30 years are the most likely explanation for the increase in allergic disease over this period.AIM: This study tests the hypothesis that the consumption of fast food is related to the prevalence of asthma and allergy.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Fast foods - are they a risk factor for asthma?\nAbstract: Lifestyle changes over the last 30 years are the most likely explanation for the increase in allergic disease over this period.AIM: This study tests the hypothesis that the consumption of fast food is related to the prevalence of asthma and allergy.\nAnswer: yes"
+  },
+  {
+    "question": "Updating emotional content in working memory: a depression-specific deficit?",
+    "abstract": "Interference from irrelevant negative material might be a key mechanism underlying intrusive ruminative thoughts in depression. Considering commonalities between depression and social anxiety and the presence of similar intrusive thoughts in social anxiety, the current study was designed to assess whether interference from irrelevant material in working memory is specific to depression or is also present in social anxiety disorder.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Updating emotional content in working memory: a depression-specific deficit?\nAbstract: Interference from irrelevant negative material might be a key mechanism underlying intrusive ruminative thoughts in depression. Considering commonalities between depression and social anxiety and the presence of similar intrusive thoughts in social anxiety, the current study was designed to assess whether interference from irrelevant material in working memory is specific to depression or is also present in social anxiety disorder.\nAnswer: yes"
+  },
+  {
+    "question": "Should HIV-infected patients be screened for silent myocardial ischaemia using gated myocardial perfusion SPECT?",
+    "abstract": "A higher prevalence of cardiovascular risk factors (CRFs) in HIV-infected patients, together with chronic infection and treatments, has resulted in an increased risk of silent myocardial ischaemia (SMI). The objective of this study was to evaluate whether myocardial SPECT should be used for screening HIV-infected patients with no clinical symptoms of coronary artery disease.",
+    "answer": "maybe",
+    "formatted_prompt": "Question: Should HIV-infected patients be screened for silent myocardial ischaemia using gated myocardial perfusion SPECT?\nAbstract: A higher prevalence of cardiovascular risk factors (CRFs) in HIV-infected patients, together with chronic infection and treatments, has resulted in an increased risk of silent myocardial ischaemia (SMI). The objective of this study was to evaluate whether myocardial SPECT should be used for screening HIV-infected patients with no clinical symptoms of coronary artery disease.\nAnswer: maybe"
+  },
+  {
+    "question": "Can distal ureteral diameter predict reflux resolution after endoscopic injection?",
+    "abstract": "To test the predictive value of distal ureteral diameter (UD) on reflux resolution after endoscopic injection in children with primary vesicoureteral reflux (VUR).",
+    "answer": "yes",
+    "formatted_prompt": "Question: Can distal ureteral diameter predict reflux resolution after endoscopic injection?\nAbstract: To test the predictive value of distal ureteral diameter (UD) on reflux resolution after endoscopic injection in children with primary vesicoureteral reflux (VUR).\nAnswer: yes"
+  },
+  {
+    "question": "Pharmacologic regimens for knee osteoarthritis prevention: can they be cost-effective?",
+    "abstract": "We sought to determine the target populations and drug efficacy, toxicity, cost, and initiation age thresholds under which a pharmacologic regimen for knee osteoarthritis (OA) prevention could be cost-effective.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Pharmacologic regimens for knee osteoarthritis prevention: can they be cost-effective?\nAbstract: We sought to determine the target populations and drug efficacy, toxicity, cost, and initiation age thresholds under which a pharmacologic regimen for knee osteoarthritis (OA) prevention could be cost-effective.\nAnswer: yes"
+  },
+  {
+    "question": "Secondhand smoke risk in infants discharged from an NICU: potential for significant health disparities?",
+    "abstract": "Secondhand smoke exposure (SHSe) threatens fragile infants discharged from a neonatal intensive care unit (NICU). Smoking practices were examined in families with a high respiratory risk infant (born at very low birth weight; ventilated>12 hr) in a Houston, Texas, NICU. Socioeconomic status, race, and mental health status were hypothesized to be related to SHSe and household smoking bans.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Secondhand smoke risk in infants discharged from an NICU: potential for significant health disparities?\nAbstract: Secondhand smoke exposure (SHSe) threatens fragile infants discharged from a neonatal intensive care unit (NICU). Smoking practices were examined in families with a high respiratory risk infant (born at very low birth weight; ventilated>12 hr) in a Houston, Texas, NICU. Socioeconomic status, race, and mental health status were hypothesized to be related to SHSe and household smoking bans.\nAnswer: yes"
+  },
+  {
+    "question": "Could Adult European Pharmacoresistant Epilepsy Patients Be Treated With Higher Doses of Zonisamide?",
+    "abstract": "To examine the clinical effect (efficacy and tolerability) of high doses of zonisamide (ZNS) (>500 mg/d) in adult patients with pharmacoresistant epilepsy.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Could Adult European Pharmacoresistant Epilepsy Patients Be Treated With Higher Doses of Zonisamide?\nAbstract: To examine the clinical effect (efficacy and tolerability) of high doses of zonisamide (ZNS) (>500 mg/d) in adult patients with pharmacoresistant epilepsy.\nAnswer: yes"
+  },
+  {
+    "question": "Does hypoglycaemia increase the risk of cardiovascular events?",
+    "abstract": "Hypoglycaemia caused by glucose-lowering therapy has been linked to cardiovascular (CV) events. The ORIGIN trial provides an opportunity to further assess this relationship.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Does hypoglycaemia increase the risk of cardiovascular events?\nAbstract: Hypoglycaemia caused by glucose-lowering therapy has been linked to cardiovascular (CV) events. The ORIGIN trial provides an opportunity to further assess this relationship.\nAnswer: yes"
+  },
+  {
+    "question": "Can mental imagery functional magnetic resonance imaging predict recovery in patients with disorders of consciousness?",
+    "abstract": "To determine the potential prognostic value of using functional magnetic resonance imaging (fMRI) to identify patients with disorders of consciousness, who show potential for recovery.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Can mental imagery functional magnetic resonance imaging predict recovery in patients with disorders of consciousness?\nAbstract: To determine the potential prognostic value of using functional magnetic resonance imaging (fMRI) to identify patients with disorders of consciousness, who show potential for recovery.\nAnswer: yes"
+  },
+  {
+    "question": "Learning needs of postpartum women: does socioeconomic status matter?",
+    "abstract": "Little is known about how information needs change over time in the early postpartum period or about how these needs might differ given socioeconomic circumstances. This study's aim was to examine women's concerns at the time of hospital discharge and unmet learning needs as self-identified at 4 weeks after discharge.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Learning needs of postpartum women: does socioeconomic status matter?\nAbstract: Little is known about how information needs change over time in the early postpartum period or about how these needs might differ given socioeconomic circumstances. This study's aim was to examine women's concerns at the time of hospital discharge and unmet learning needs as self-identified at 4 weeks after discharge.\nAnswer: yes"
+  },
+  {
+    "question": "Should general practitioners call patients by their first names?",
+    "abstract": "To assess the acceptability to patients of the use of patients' first names by doctors and doctors' first names by patients in general practice.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Should general practitioners call patients by their first names?\nAbstract: To assess the acceptability to patients of the use of patients' first names by doctors and doctors' first names by patients in general practice.\nAnswer: yes"
+  },
+  {
+    "question": "Does preloading with colloids prevent hemodynamic changes when neurosurgical patients are subsequently changed to the seated position?",
+    "abstract": "This prospective, randomized, double-blind study was designed to determine and compare the usefulness of preloading colloids (Haemaccel) 10 ml/Kg before positioning whether it can prevent hemodynamic changes during seated positioning or not.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Does preloading with colloids prevent hemodynamic changes when neurosurgical patients are subsequently changed to the seated position?\nAbstract: This prospective, randomized, double-blind study was designed to determine and compare the usefulness of preloading colloids (Haemaccel) 10 ml/Kg before positioning whether it can prevent hemodynamic changes during seated positioning or not.\nAnswer: yes"
+  },
+  {
+    "question": "Optimism and survival: does an optimistic outlook predict better survival at advanced ages?",
+    "abstract": "Studies examining predictors of survival among the oldest-old have primarily focused on objective measures, such as physical function and health status. Only a few studies have examined the effect of personality traits on survival, such as optimism. The aim of this study was to examine whether an optimistic outlook predicts survival among the oldest-old.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Optimism and survival: does an optimistic outlook predict better survival at advanced ages?\nAbstract: Studies examining predictors of survival among the oldest-old have primarily focused on objective measures, such as physical function and health status. Only a few studies have examined the effect of personality traits on survival, such as optimism. The aim of this study was to examine whether an optimistic outlook predicts survival among the oldest-old.\nAnswer: yes"
+  },
+  {
+    "question": "Telemedicine and type 1 diabetes: is technology per se sufficient to improve glycaemic control?",
+    "abstract": "Each patient received a smartphone with an insulin dose advisor (IDA) and with (G3 group) or without (G2 group) the telemonitoring/teleconsultation function. Patients were classified as \"high users\" if the proportion of \"informed\" meals using the IDA exceeded 67% (median) and as \"low users\" if not. Also analyzed was the respective impact of the IDA function and teleconsultations on the final HbA1c levels.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Telemedicine and type 1 diabetes: is technology per se sufficient to improve glycaemic control?\nAbstract: Each patient received a smartphone with an insulin dose advisor (IDA) and with (G3 group) or without (G2 group) the telemonitoring/teleconsultation function. Patients were classified as \"high users\" if the proportion of \"informed\" meals using the IDA exceeded 67% (median) and as \"low users\" if not. Also analyzed was the respective impact of the IDA function and teleconsultations on the final HbA1c levels.\nAnswer: yes"
+  },
+  {
+    "question": "Does a geriatric oncology consultation modify the cancer treatment plan for elderly patients?",
+    "abstract": "This study was performed to describe the treatment plan modifications after a geriatric oncology clinic. Assessment of health and functional status and cancer assessment was performed in older cancer patients referred to a cancer center.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Does a geriatric oncology consultation modify the cancer treatment plan for elderly patients?\nAbstract: This study was performed to describe the treatment plan modifications after a geriatric oncology clinic. Assessment of health and functional status and cancer assessment was performed in older cancer patients referred to a cancer center.\nAnswer: yes"
+  },
+  {
+    "question": "Does blood pressure change in treated hypertensive patients depending on whether it is measured by a physician or a nurse?",
+    "abstract": "To determine whether there are differences between blood pressure (BP) measured by the nurse (NBP), BP measured by the physician (PBP) and self-measured BP in treated hypertensive patients and, if found, to evaluate their clinical importance.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Does blood pressure change in treated hypertensive patients depending on whether it is measured by a physician or a nurse?\nAbstract: To determine whether there are differences between blood pressure (BP) measured by the nurse (NBP), BP measured by the physician (PBP) and self-measured BP in treated hypertensive patients and, if found, to evaluate their clinical importance.\nAnswer: yes"
+  },
+  {
+    "question": "Does receipt of hospice care in nursing homes improve the management of pain at the end of life?",
+    "abstract": "To compare analgesic management of daily pain for dying nursing home residents enrolled and not enrolled in Medicare hospice.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Does receipt of hospice care in nursing homes improve the management of pain at the end of life?\nAbstract: To compare analgesic management of daily pain for dying nursing home residents enrolled and not enrolled in Medicare hospice.\nAnswer: yes"
+  },
+  {
+    "question": "Are environmental factors important in primary systemic vasculitis?",
+    "abstract": "To investigate the association between primary systemic vasculitis (PSV) and environmental risk factors.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Are environmental factors important in primary systemic vasculitis?\nAbstract: To investigate the association between primary systemic vasculitis (PSV) and environmental risk factors.\nAnswer: yes"
+  },
+  {
+    "question": "Should early extubation be the goal for children after congenital cardiac surgery?",
+    "abstract": "We sought to determine the feasibility and assess the clinical outcomes associated with an early extubation strategy for all children undergoing congenital heart surgery, including neonates (age,<30 days).",
+    "answer": "yes",
+    "formatted_prompt": "Question: Should early extubation be the goal for children after congenital cardiac surgery?\nAbstract: We sought to determine the feasibility and assess the clinical outcomes associated with an early extubation strategy for all children undergoing congenital heart surgery, including neonates (age,<30 days).\nAnswer: yes"
+  },
+  {
+    "question": "Informed consent for total hip arthroplasty: does a written information sheet improve recall by patients?",
+    "abstract": "To ascertain whether a written information sheet is acceptable to patients and improves recall of the consent interview.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Informed consent for total hip arthroplasty: does a written information sheet improve recall by patients?\nAbstract: To ascertain whether a written information sheet is acceptable to patients and improves recall of the consent interview.\nAnswer: yes"
+  },
+  {
+    "question": "Can D-dimer become a new diagnostic parameter for acute appendicitis?",
+    "abstract": "In this study, we investigated D-dimer serum level as a diagnostic parameter for acute appendicitis.",
+    "answer": "no",
+    "formatted_prompt": "Question: Can D-dimer become a new diagnostic parameter for acute appendicitis?\nAbstract: In this study, we investigated D-dimer serum level as a diagnostic parameter for acute appendicitis.\nAnswer: no"
+  },
+  {
+    "question": "Are patients with serious mental illness more likely to be admitted to nursing homes with more deficiencies in care?",
+    "abstract": "Patients diagnosed with serious mental illness (SMI) who qualify for nursing home placement tend to require high levels of both psychiatric and nursing care. However, it is unknown whether they are equally likely to be admitted to nursing homes with adequate quality of care compared with other patients.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Are patients with serious mental illness more likely to be admitted to nursing homes with more deficiencies in care?\nAbstract: Patients diagnosed with serious mental illness (SMI) who qualify for nursing home placement tend to require high levels of both psychiatric and nursing care. However, it is unknown whether they are equally likely to be admitted to nursing homes with adequate quality of care compared with other patients.\nAnswer: yes"
+  },
+  {
+    "question": "Can the postoperative pain level be predicted preoperatively?",
+    "abstract": "We searched for factors present preoperatively which could be used to predict the intensity of postoperative pain.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Can the postoperative pain level be predicted preoperatively?\nAbstract: We searched for factors present preoperatively which could be used to predict the intensity of postoperative pain.\nAnswer: yes"
+  },
+  {
+    "question": "Rotator cuff tear--an occupational disease?",
+    "abstract": "In literature there are only few data which describe the influence of occupation on the development of rotator cuff disease.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Rotator cuff tear--an occupational disease?\nAbstract: In literature there are only few data which describe the influence of occupation on the development of rotator cuff disease.\nAnswer: yes"
+  },
+  {
+    "question": "Is cardiovascular evaluation necessary prior to and during beta-blocker therapy for infantile hemangiomas?",
+    "abstract": "Although consensus guidelines for pretreatment evaluation and monitoring of propranolol therapy in patients with infantile hemangiomas (IH) have been formulated, little is known about the cardiovascular side effects.",
+    "answer": "no",
+    "formatted_prompt": "Question: Is cardiovascular evaluation necessary prior to and during beta-blocker therapy for infantile hemangiomas?\nAbstract: Although consensus guidelines for pretreatment evaluation and monitoring of propranolol therapy in patients with infantile hemangiomas (IH) have been formulated, little is known about the cardiovascular side effects.\nAnswer: no"
+  },
+  {
+    "question": "Is Panton-Valentine leucocidin associated with the pathogenesis of Staphylococcus aureus bacteraemia in the UK?",
+    "abstract": "The morbidity and mortality associated with Panton-Valentine leucocidin (PVL)-positive Staphylococcus aureus suggest that this toxin is a key marker of disease severity. Nevertheless, the importance of PVL in the pathogenesis of primary bacteraemia caused by S. aureus is uncertain. We have determined the prevalence of PVL-encoding genes among isolates of S. aureus from bacteraemic patients.",
+    "answer": "maybe",
+    "formatted_prompt": "Question: Is Panton-Valentine leucocidin associated with the pathogenesis of Staphylococcus aureus bacteraemia in the UK?\nAbstract: The morbidity and mortality associated with Panton-Valentine leucocidin (PVL)-positive Staphylococcus aureus suggest that this toxin is a key marker of disease severity. Nevertheless, the importance of PVL in the pathogenesis of primary bacteraemia caused by S. aureus is uncertain. We have determined the prevalence of PVL-encoding genes among isolates of S. aureus from bacteraemic patients.\nAnswer: maybe"
+  },
+  {
+    "question": "Do \"America's Best Hospitals\" perform better for acute myocardial infarction?",
+    "abstract": "\"America's Best Hospitals,\" an influential list published annually by U.S. News and World Report, assesses the quality of hospitals. It is not known whether patients admitted to hospitals ranked at the top in cardiology have lower short-term mortality from acute myocardial infarction than those admitted to other hospitals or whether differences in mortality are explained by differential use of recommended therapies.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Do \"America's Best Hospitals\" perform better for acute myocardial infarction?\nAbstract: \"America's Best Hospitals,\" an influential list published annually by U.S. News and World Report, assesses the quality of hospitals. It is not known whether patients admitted to hospitals ranked at the top in cardiology have lower short-term mortality from acute myocardial infarction than those admitted to other hospitals or whether differences in mortality are explained by differential use of recommended therapies.\nAnswer: yes"
+  },
+  {
+    "question": "Bridge experience with long-term implantable left ventricular assist devices. Are they an alternative to transplantation?",
+    "abstract": "If long-term use of left ventricular assist devices (LVADs) as bridges to transplantation is successful, the issue of permanent device implantation in lieu of transplantation could be addressed through the creation of appropriately designed trials. Our medium-term experience with both pneumatically and electrically powered ThermoCardiosystems LVADs is presented to outline the benefits and limitations of device support in lieu of transplantation.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Bridge experience with long-term implantable left ventricular assist devices. Are they an alternative to transplantation?\nAbstract: If long-term use of left ventricular assist devices (LVADs) as bridges to transplantation is successful, the issue of permanent device implantation in lieu of transplantation could be addressed through the creation of appropriately designed trials. Our medium-term experience with both pneumatically and electrically powered ThermoCardiosystems LVADs is presented to outline the benefits and limitations of device support in lieu of transplantation.\nAnswer: yes"
+  },
+  {
+    "question": "Is delayed gastric emptying following pancreaticoduodenectomy related to pylorus preservation?",
+    "abstract": "Delayed gastric emptying (DGE) is the most frequent postoperative complication after pylorus-preserving pancreaticoduodenectomy (PPPD). This prospective, non-randomized study was undertaken to determine whether the incidence of DGE may be reduced by modifying the original reconstructive anatomy with a retrocolic duodenojejunostomy towards an antecolic duodenojejunostomy.",
+    "answer": "no",
+    "formatted_prompt": "Question: Is delayed gastric emptying following pancreaticoduodenectomy related to pylorus preservation?\nAbstract: Delayed gastric emptying (DGE) is the most frequent postoperative complication after pylorus-preserving pancreaticoduodenectomy (PPPD). This prospective, non-randomized study was undertaken to determine whether the incidence of DGE may be reduced by modifying the original reconstructive anatomy with a retrocolic duodenojejunostomy towards an antecolic duodenojejunostomy.\nAnswer: no"
+  },
+  {
+    "question": "Do emergency ultrasound fellowship programs impact emergency medicine residents' ultrasound education?",
+    "abstract": "Recent years have seen a rapid proliferation of emergency ultrasound (EUS) programs in the United States. To date, there is no evidence supporting that EUS fellowships enhance residents' ultrasound (US) educational experiences. The purpose of this study was to determine the impact of EUS fellowships on emergency medicine (EM) residents' US education.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Do emergency ultrasound fellowship programs impact emergency medicine residents' ultrasound education?\nAbstract: Recent years have seen a rapid proliferation of emergency ultrasound (EUS) programs in the United States. To date, there is no evidence supporting that EUS fellowships enhance residents' ultrasound (US) educational experiences. The purpose of this study was to determine the impact of EUS fellowships on emergency medicine (EM) residents' US education.\nAnswer: yes"
+  },
+  {
+    "question": "Do primary care physicians underprescribe antibiotics for peptic ulcer disease?",
+    "abstract": "To determine how often primary care physicians prescribe eradication therapy for peptic ulcer disease (PUD) and nonulcer dyspepsia (NUD).",
+    "answer": "yes",
+    "formatted_prompt": "Question: Do primary care physicians underprescribe antibiotics for peptic ulcer disease?\nAbstract: To determine how often primary care physicians prescribe eradication therapy for peptic ulcer disease (PUD) and nonulcer dyspepsia (NUD).\nAnswer: yes"
+  },
+  {
+    "question": "Is there any interest to perform ultrasonography in boys with undescended testis?",
+    "abstract": "To evaluate the accuracy of ultrasonographic examination in boys with an undescended testis.",
+    "answer": "no",
+    "formatted_prompt": "Question: Is there any interest to perform ultrasonography in boys with undescended testis?\nAbstract: To evaluate the accuracy of ultrasonographic examination in boys with an undescended testis.\nAnswer: no"
+  },
+  {
+    "question": "Target Serum Urate: Do Gout Patients Know Their Goal?",
+    "abstract": "To examine gout patients' knowledge of their condition, including the central role of achieving and maintaining the serum urate (SU) goal with the use of urate-lowering therapy (ULT).",
+    "answer": "no",
+    "formatted_prompt": "Question: Target Serum Urate: Do Gout Patients Know Their Goal?\nAbstract: To examine gout patients' knowledge of their condition, including the central role of achieving and maintaining the serum urate (SU) goal with the use of urate-lowering therapy (ULT).\nAnswer: no"
+  },
+  {
+    "question": "Does a dedicated discharge coordinator improve the quality of hospital discharge?",
+    "abstract": "To evaluate the effectiveness of the role of a discharge coordinator whose sole responsibility was to plan and coordinate the discharge of patients from medical wards.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Does a dedicated discharge coordinator improve the quality of hospital discharge?\nAbstract: To evaluate the effectiveness of the role of a discharge coordinator whose sole responsibility was to plan and coordinate the discharge of patients from medical wards.\nAnswer: yes"
+  },
+  {
+    "question": "Is the Androgen Deficiency of Aging Men (ADAM) questionnaire useful for the screening of partial androgenic deficiency of aging men?",
+    "abstract": "Androgen serum levels significantly decrease in older men, causing quality of life impairment and increasing the risk of chronic disease. This disorder is defined as PADAM (Partial Androgen Deficiency of Aging Men).",
+    "answer": "no",
+    "formatted_prompt": "Question: Is the Androgen Deficiency of Aging Men (ADAM) questionnaire useful for the screening of partial androgenic deficiency of aging men?\nAbstract: Androgen serum levels significantly decrease in older men, causing quality of life impairment and increasing the risk of chronic disease. This disorder is defined as PADAM (Partial Androgen Deficiency of Aging Men).\nAnswer: no"
+  },
+  {
+    "question": "Is the advanced age a contraindication to GERD laparoscopic surgery?",
+    "abstract": "In this prospective non randomized observational cohort study we have evaluated the influence of age on outcome of laparoscopic total fundoplication for GERD.",
+    "answer": "no",
+    "formatted_prompt": "Question: Is the advanced age a contraindication to GERD laparoscopic surgery?\nAbstract: In this prospective non randomized observational cohort study we have evaluated the influence of age on outcome of laparoscopic total fundoplication for GERD.\nAnswer: no"
+  },
+  {
+    "question": "Does Residency Selection Criteria Predict Performance in Orthopaedic Surgery Residency?",
+    "abstract": "More than 1000 candidates applied for orthopaedic residency positions in 2014, and the competition is intense; approximately one-third of the candidates failed to secure a position in the match. However, the criteria used in the selection process often are subjective and studies have differed in terms of which criteria predict either objective measures or subjective ratings of resident performance by faculty.QUESTIONS/",
+    "answer": "yes",
+    "formatted_prompt": "Question: Does Residency Selection Criteria Predict Performance in Orthopaedic Surgery Residency?\nAbstract: More than 1000 candidates applied for orthopaedic residency positions in 2014, and the competition is intense; approximately one-third of the candidates failed to secure a position in the match. However, the criteria used in the selection process often are subjective and studies have differed in terms of which criteria predict either objective measures or subjective ratings of resident performance by faculty.QUESTIONS/\nAnswer: yes"
+  },
+  {
+    "question": "Volume change of uterine myomas during pregnancy: do myomas really grow?",
+    "abstract": "To estimate changes in uterine myoma volume during pregnancy.",
+    "answer": "no",
+    "formatted_prompt": "Question: Volume change of uterine myomas during pregnancy: do myomas really grow?\nAbstract: To estimate changes in uterine myoma volume during pregnancy.\nAnswer: no"
+  },
+  {
+    "question": "Percutaneous ethanol injection for benign cystic thyroid nodules: is aspiration of ethanol-mixed fluid advantageous?",
+    "abstract": "We evaluated the differences between percutaneous ethanol injection with and without aspiration of ethanol-mixed fluid for treatment of benign cystic thyroid nodules.",
+    "answer": "no",
+    "formatted_prompt": "Question: Percutaneous ethanol injection for benign cystic thyroid nodules: is aspiration of ethanol-mixed fluid advantageous?\nAbstract: We evaluated the differences between percutaneous ethanol injection with and without aspiration of ethanol-mixed fluid for treatment of benign cystic thyroid nodules.\nAnswer: no"
+  },
+  {
+    "question": "Can we ease the financial burden of colonoscopy?",
+    "abstract": "Polyps identified at colonoscopy are predominantly diminutive (<5\u2009mm) with a small risk (>1%) of high-grade dysplasia or carcinoma; however, the cost of histological assessment is substantial.AIM: The aim of this study was to determine whether prediction of colonoscopy surveillance intervals based on real-time endoscopic assessment of polyp histology is accurate and cost effective.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Can we ease the financial burden of colonoscopy?\nAbstract: Polyps identified at colonoscopy are predominantly diminutive (<5\u2009mm) with a small risk (>1%) of high-grade dysplasia or carcinoma; however, the cost of histological assessment is substantial.AIM: The aim of this study was to determine whether prediction of colonoscopy surveillance intervals based on real-time endoscopic assessment of polyp histology is accurate and cost effective.\nAnswer: yes"
+  },
+  {
+    "question": "Does Sensation Return to the Nasal Tip After Microfat Grafting?",
+    "abstract": "Patients usually complain about numbness in the nasal tip after microfat injections. The present study evaluated the severity of the numbness in the nasal tip after the procedure.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Does Sensation Return to the Nasal Tip After Microfat Grafting?\nAbstract: Patients usually complain about numbness in the nasal tip after microfat injections. The present study evaluated the severity of the numbness in the nasal tip after the procedure.\nAnswer: yes"
+  },
+  {
+    "question": "Is non-HDL-cholesterol a better predictor of long-term outcome in patients after acute myocardial infarction compared to LDL-cholesterol?",
+    "abstract": "It has recently been shown that non-high density lipoprotein cholesterol (non-HDL-C) may be a better predictor of cardiovascular risk than low density lipoprotein cholesterol (LDL-C). Based on known ethic differences in lipid parameters and cardiovascular risk prediction, we sought to study the predictability of attaining non-HDL-C target and long-term major adverse cardiovascular event (MACE) in Thai patients after acute myocardial infarction (AMI) compared to attaining LDL-C target.",
+    "answer": "yes",
+    "formatted_prompt": "Question: Is non-HDL-cholesterol a better predictor of long-term outcome in patients after acute myocardial infarction compared to LDL-cholesterol?\nAbstract: It has recently been shown that non-high density lipoprotein cholesterol (non-HDL-C) may be a better predictor of cardiovascular risk than low density lipoprotein cholesterol (LDL-C). Based on known ethic differences in lipid parameters and cardiovascular risk prediction, we sought to study the predictability of attaining non-HDL-C target and long-term major adverse cardiovascular event (MACE) in Thai patients after acute myocardial infarction (AMI) compared to attaining LDL-C target.\nAnswer: yes"
+  },
+  {
+    "question": "Do general practice characteristics influence uptake of an information technology (IT) innovation in primary care?",
+    "abstract": "Recent evaluations of IT innovations in primary care have highlighted variations between centres and practices in uptake and use. We evaluated whether structural characteristics of a general practice were associated with variations in use of a web-based clinical information system underpinning a Managed Clinical Network in diabetes, between the years 2001 and 2003.",
+    "answer": "no",
+    "formatted_prompt": "Question: Do general practice characteristics influence uptake of an information technology (IT) innovation in primary care?\nAbstract: Recent evaluations of IT innovations in primary care have highlighted variations between centres and practices in uptake and use. We evaluated whether structural characteristics of a general practice were associated with variations in use of a web-based clinical information system underpinning a Managed Clinical Network in diabetes, between the years 2001 and 2003.\nAnswer: no"
+  },
+  {
+    "question": "After CLASS--Is a voluntary public insurance program a realistic way to meet the long-term support and service needs of adults with disabilities?",
+    "abstract": "The CLASS Act, which was part of the Affordable Care Act of 2010, established a voluntary personal assistance services (PAS) insurance program. However, concerns about enrollment and adverse selection led to repeal of the CLASS Act in\u00a02013.",
+    "answer": "no",
+    "formatted_prompt": "Question: After CLASS--Is a voluntary public insurance program a realistic way to meet the long-term support and service needs of adults with disabilities?\nAbstract: The CLASS Act, which was part of the Affordable Care Act of 2010, established a voluntary personal assistance services (PAS) insurance program. However, concerns about enrollment and adverse selection led to repeal of the CLASS Act in\u00a02013.\nAnswer: no"
+  }
+]
