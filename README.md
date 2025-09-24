@@ -2,6 +2,7 @@
 # Few-Shot Learning vs Fine-Tuning for Biomedical QA
 
 ## Key Findings
+<img width="4770" height="3529" alt="comparative_analysis" src="https://github.com/user-attachments/assets/5f18ed9d-b2ea-4fe3-b607-f33cbbd37d00" />
 
 **Few-shot learning outperformed fine-tuning by 32.5% on biomedical question answering, using 99% fewer examples and 99.9% less training time.**
 
@@ -32,3 +33,4 @@ python scripts/run_few_shot_experiments.py
 python scripts/run_fine_tuning.py
 python scripts/comparative_analysis.py
 python scripts/cross_domain_transfer.py
+
